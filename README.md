@@ -1,4 +1,4 @@
-# WISPManager — Sistema de Gestión WISP/MikroTik
+# WISPManager/Armin — Sistema de Gestión WISP/MikroTik
 
 Sistema completo para gestión de proveedores de internet inalámbrico (WISP) con integración nativa a MikroTik RouterOS.
 
