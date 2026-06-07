@@ -688,3 +688,23 @@
 {"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-07 15:29:56"}
 {"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-07 15:29:56"}
 {"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-07 15:30:05"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-07 17:29:45"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-07 17:29:46"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-07 17:29:46"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-07 17:29:46"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-07 17:29:46"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-07 17:30:20"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-07 17:30:20"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-07 17:30:20"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-07 17:30:20"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-07 17:30:20"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-07 17:30:20"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-07 17:30:51"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-07 17:31:21"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-07 17:31:21"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-07 17:31:51"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-07 17:36:00"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-07 17:36:00"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-07 17:36:01"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-07 17:36:01"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-07 17:36:01"}
