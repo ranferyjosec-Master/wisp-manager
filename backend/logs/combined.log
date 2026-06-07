@@ -1,0 +1,666 @@
+{"level":"error","message":"❌ Error al iniciar servidor: password authentication failed for user \"wisp_user\"","name":"SequelizeConnectionError","original":{"code":"28P01","file":"auth.c","length":105,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"parent":{"code":"28P01","file":"auth.c","length":105,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"stack":"SequelizeConnectionError: password authentication failed for user \"wisp_user\"\n    at Client._connectionCallback (C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\dialects\\postgres\\connection-manager.js:145:24)\n    at Client._handleErrorWhileConnecting (C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:379:19)\n    at Client._handleErrorMessage (C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:399:19)\n    at Connection.emit (node:events:518:28)\n    at C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\pg\\lib\\connection.js:115:12\n    at Parser.parse (C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\parser.js:38:17)\n    at Socket.<anonymous> (C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\index.js:11:42)\n    at Socket.emit (node:events:518:28)\n    at addChunk (node:internal/streams/readable:561:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)","timestamp":"2026-05-07 17:18:30"}
+{"level":"error","message":"❌ Error al iniciar servidor: password authentication failed for user \"wisp_user\"","name":"SequelizeConnectionError","original":{"code":"28P01","file":"auth.c","length":105,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"parent":{"code":"28P01","file":"auth.c","length":105,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"stack":"SequelizeConnectionError: password authentication failed for user \"wisp_user\"\n    at Client._connectionCallback (C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\dialects\\postgres\\connection-manager.js:145:24)\n    at Client._handleErrorWhileConnecting (C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:379:19)\n    at Client._handleErrorMessage (C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:399:19)\n    at Connection.emit (node:events:518:28)\n    at C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\pg\\lib\\connection.js:115:12\n    at Parser.parse (C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\parser.js:38:17)\n    at Socket.<anonymous> (C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\index.js:11:42)\n    at Socket.emit (node:events:518:28)\n    at addChunk (node:internal/streams/readable:561:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)","timestamp":"2026-05-07 17:19:53"}
+{"level":"error","message":"❌ Error al iniciar servidor: password authentication failed for user \"wisp_user\"","name":"SequelizeConnectionError","original":{"code":"28P01","file":"auth.c","length":105,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"parent":{"code":"28P01","file":"auth.c","length":105,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"stack":"SequelizeConnectionError: password authentication failed for user \"wisp_user\"\n    at Client._connectionCallback (C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\dialects\\postgres\\connection-manager.js:145:24)\n    at Client._handleErrorWhileConnecting (C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:379:19)\n    at Client._handleErrorMessage (C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:399:19)\n    at Connection.emit (node:events:518:28)\n    at C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\pg\\lib\\connection.js:115:12\n    at Parser.parse (C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\parser.js:38:17)\n    at Socket.<anonymous> (C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\index.js:11:42)\n    at Socket.emit (node:events:518:28)\n    at addChunk (node:internal/streams/readable:561:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)","timestamp":"2026-05-07 17:24:25"}
+{"level":"error","message":"❌ Error al iniciar servidor: password authentication failed for user \"wisp_user\"","name":"SequelizeConnectionError","original":{"code":"28P01","file":"auth.c","length":105,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"parent":{"code":"28P01","file":"auth.c","length":105,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"stack":"SequelizeConnectionError: password authentication failed for user \"wisp_user\"\n    at Client._connectionCallback (C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\dialects\\postgres\\connection-manager.js:145:24)\n    at Client._handleErrorWhileConnecting (C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:379:19)\n    at Client._handleErrorMessage (C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:399:19)\n    at Connection.emit (node:events:518:28)\n    at C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\pg\\lib\\connection.js:115:12\n    at Parser.parse (C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\parser.js:38:17)\n    at Socket.<anonymous> (C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\index.js:11:42)\n    at Socket.emit (node:events:518:28)\n    at addChunk (node:internal/streams/readable:561:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)","timestamp":"2026-05-07 17:35:22"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-05-07 17:44:15"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-05-07 17:44:15"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-05-07 17:44:15"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-05-07 17:44:15"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-05-07 17:44:15"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-05-07 18:01:36"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-05-07 18:02:07"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-05-07 18:14:31"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-05-07 18:14:31"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-05-07 18:14:31"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-05-07 18:14:31"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-05-07 18:14:31"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-05-07 18:14:35"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-05-07 18:14:35"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-05-07 18:14:35"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-05-07 18:14:35"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-05-07 18:14:35"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-05-07 18:15:05"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-05-07 18:15:05"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-05-07 18:15:05"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-05-07 18:15:05"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-05-07 18:15:05"}
+{"level":"error","message":"Error en monitoreo: relation \"MikrotikDevices\" does not exist","name":"SequelizeDatabaseError","original":{"code":"42P01","file":"parse_relation.c","length":115,"line":"1469","name":"error","position":"189","routine":"parserOpenTable","severity":"ERROR","sql":"SELECT \"id\", \"name\", \"host\", \"port\", \"username\", \"password\", \"model\", \"routerosVersion\", \"status\", \"lastSeen\", \"cpuLoad\", \"memoryUsed\", \"uptime\", \"isActive\", \"createdAt\", \"updatedAt\" FROM \"MikrotikDevices\" AS \"MikrotikDevice\" WHERE \"MikrotikDevice\".\"isActive\" = true;"},"parameters":{},"parent":{"code":"42P01","file":"parse_relation.c","length":115,"line":"1469","name":"error","position":"189","routine":"parserOpenTable","severity":"ERROR","sql":"SELECT \"id\", \"name\", \"host\", \"port\", \"username\", \"password\", \"model\", \"routerosVersion\", \"status\", \"lastSeen\", \"cpuLoad\", \"memoryUsed\", \"uptime\", \"isActive\", \"createdAt\", \"updatedAt\" FROM \"MikrotikDevices\" AS \"MikrotikDevice\" WHERE \"MikrotikDevice\".\"isActive\" = true;"},"sql":"SELECT \"id\", \"name\", \"host\", \"port\", \"username\", \"password\", \"model\", \"routerosVersion\", \"status\", \"lastSeen\", \"cpuLoad\", \"memoryUsed\", \"uptime\", \"isActive\", \"createdAt\", \"updatedAt\" FROM \"MikrotikDevices\" AS \"MikrotikDevice\" WHERE \"MikrotikDevice\".\"isActive\" = true;","stack":"Error\n    at Query.run (C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\dialects\\postgres\\query.js:50:25)\n    at C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\sequelize.js:315:28\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async PostgresQueryInterface.select (C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\dialects\\abstract\\query-interface.js:407:12)\n    at async MikrotikDevice.findAll (C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\model.js:1140:21)\n    at async MikrotikMonitor.checkAllDevices (C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:28:23)\n    at async Task._execution (C:\\Users\\BIDMAIL-CARLOS\\Downloads\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-05-07 18:16:00"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-05-07 18:16:30"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-05-07 18:16:30"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-05-07 18:16:30"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-05-07 18:16:30"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-05-07 18:16:30"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-05-07 18:17:10"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-05-07 18:17:10"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-07 18:17:10"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-07 18:17:10"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-05-07 18:17:10"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-07 18:17:10"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-07 18:17:15"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-07 18:17:15"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-05-07 18:17:16"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-07 18:17:16"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-05-07 18:17:18"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-07 18:17:40"}
+{"ip":"::1","level":"info","message":"POST /api/invoices/generate-monthly","timestamp":"2026-05-07 18:17:44"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-05-07 18:17:44"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-07 18:17:49"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-05-07 18:17:54"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-07 18:17:56"}
+{"ip":"::1","level":"info","message":"GET /api/users","timestamp":"2026-05-07 18:17:58"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-07 18:18:10"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-05-08 13:14:26"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-05-08 13:14:26"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-05-08 13:14:26"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-05-08 13:14:26"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-05-08 13:14:26"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:14:50"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-08 13:14:50"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 13:14:50"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-05-08 13:14:50"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-05-08 13:15:14"}
+{"level":"warn","message":"Intento de login fallido para: admin@wisp.mx","timestamp":"2026-05-08 13:15:14"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-05-08 13:18:10"}
+{"level":"warn","message":"Intento de login fallido para: admin@wisp.mx","timestamp":"2026-05-08 13:18:10"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-05-08 13:19:37"}
+{"level":"warn","message":"Intento de login fallido para: admin@wisp.mx","timestamp":"2026-05-08 13:19:37"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-05-08 13:23:49"}
+{"level":"warn","message":"Intento de login fallido para: admin@wisp.mx","timestamp":"2026-05-08 13:23:49"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-05-08 13:28:02"}
+{"level":"warn","message":"Intento de login fallido para: admin@wisp.mx","timestamp":"2026-05-08 13:28:02"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-05-08 13:28:16"}
+{"level":"warn","message":"Intento de login fallido para: admin@wisp.mx","timestamp":"2026-05-08 13:28:16"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-05-08 13:30:17"}
+{"level":"warn","message":"Intento de login fallido para: admin@wisp.mx","timestamp":"2026-05-08 13:30:17"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-05-08 13:40:10"}
+{"level":"warn","message":"Intento de login fallido para: admin@wisp.mx","timestamp":"2026-05-08 13:40:11"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-05-08 13:43:32"}
+{"level":"warn","message":"Intento de login fallido para: admin@wisp.mx","timestamp":"2026-05-08 13:43:32"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-05-08 13:44:43"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-05-08 13:44:44"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-08 13:44:46"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 13:44:46"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-05-08 13:44:46"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:44:46"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 13:44:52"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 13:44:52"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-05-08 13:44:56"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 13:44:56"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-05-08 13:45:00"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:45:01"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:45:16"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 13:45:24"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 13:45:24"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-08 13:45:24"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 13:45:24"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-05-08 13:45:24"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:45:46"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 13:45:47"}
+{"ip":"::1","level":"info","message":"GET /api/clients/5ee657ae-9f7f-459c-80fd-560d3ed57c16","timestamp":"2026-05-08 13:45:56"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:46:16"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:46:46"}
+{"ip":"::1","level":"info","message":"POST /api/clients/5ee657ae-9f7f-459c-80fd-560d3ed57c16/suspend","timestamp":"2026-05-08 13:46:59"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 13:47:00"}
+{"ip":"::1","level":"info","message":"POST /api/clients/5ee657ae-9f7f-459c-80fd-560d3ed57c16/activate","timestamp":"2026-05-08 13:47:01"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 13:47:01"}
+{"ip":"::1","level":"info","message":"POST /api/clients/5ee657ae-9f7f-459c-80fd-560d3ed57c16/suspend","timestamp":"2026-05-08 13:47:03"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 13:47:03"}
+{"ip":"::1","level":"info","message":"POST /api/clients/5ee657ae-9f7f-459c-80fd-560d3ed57c16/activate","timestamp":"2026-05-08 13:47:04"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 13:47:04"}
+{"ip":"::1","level":"info","message":"POST /api/clients/5ee657ae-9f7f-459c-80fd-560d3ed57c16/suspend","timestamp":"2026-05-08 13:47:06"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 13:47:06"}
+{"ip":"::1","level":"info","message":"POST /api/clients/5ee657ae-9f7f-459c-80fd-560d3ed57c16/activate","timestamp":"2026-05-08 13:47:07"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 13:47:07"}
+{"ip":"::1","level":"info","message":"GET /api/clients/ef8dacfe-c52d-4996-b72c-d40b725f1bbb","timestamp":"2026-05-08 13:47:09"}
+{"ip":"::1","level":"info","message":"GET /api/clients/19e134d3-5721-45ce-9e60-2d7f6ae17485","timestamp":"2026-05-08 13:47:16"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:47:17"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:47:47"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-05-08 13:48:11"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 13:48:11"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:48:17"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 13:48:22"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 13:48:38"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:48:47"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-05-08 13:48:53"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-05-08 13:48:56"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-05-08 13:49:01"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-05-08 13:49:01"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:49:02"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:49:06"}
+{"ip":"::1","level":"info","message":"GET /api/users","timestamp":"2026-05-08 13:49:08"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:49:17"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-08 13:49:41"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 13:49:41"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-05-08 13:49:41"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:49:47"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:50:17"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-08 13:50:41"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:50:47"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:51:17"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-08 13:51:41"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:51:47"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:52:17"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 13:52:28"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 13:52:28"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 13:52:31"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 13:52:35"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:52:48"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:53:18"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:53:48"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:54:18"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:54:48"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:55:18"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-08 13:55:45"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 13:55:45"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-05-08 13:55:45"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:55:49"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-05-08 13:55:59"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 13:55:59"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 13:56:00"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 13:56:00"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:56:22"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 13:56:33"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-05-08 13:56:34"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-08 13:56:45"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 13:56:45"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-05-08 13:56:45"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 13:56:45"}
+{"ip":"::1","level":"info","message":"GET /api/clients/ef8dacfe-c52d-4996-b72c-d40b725f1bbb","timestamp":"2026-05-08 13:56:47"}
+{"ip":"::1","level":"info","message":"GET /api/clients/19e134d3-5721-45ce-9e60-2d7f6ae17485","timestamp":"2026-05-08 13:56:51"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:56:53"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:58:25"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 13:58:25"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 13:58:25"}
+{"ip":"::1","level":"info","message":"GET /api/clients/19e134d3-5721-45ce-9e60-2d7f6ae17485","timestamp":"2026-05-08 13:58:25"}
+{"ip":"::1","level":"info","message":"POST /api/clients/ef8dacfe-c52d-4996-b72c-d40b725f1bbb/activate","timestamp":"2026-05-08 13:58:33"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 13:58:33"}
+{"ip":"::1","level":"info","message":"POST /api/clients/ef8dacfe-c52d-4996-b72c-d40b725f1bbb/suspend","timestamp":"2026-05-08 13:58:34"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 13:58:34"}
+{"ip":"::1","level":"info","message":"POST /api/clients/ef8dacfe-c52d-4996-b72c-d40b725f1bbb/activate","timestamp":"2026-05-08 13:58:37"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 13:58:37"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 13:58:53"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:58:56"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 13:58:56"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 13:59:42"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 13:59:42"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 13:59:42"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 15:14:10"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 15:14:10"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 15:14:10"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 15:14:40"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 15:15:12"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 15:15:12"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 15:15:12"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-08 15:15:13"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 15:15:13"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-05-08 15:15:13"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-08 15:15:48"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 15:15:48"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-05-08 15:15:48"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 15:15:48"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-08 15:18:31"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 15:18:31"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-05-08 15:18:31"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 15:18:31"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 15:28:50"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-08 15:28:50"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 15:28:50"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-05-08 15:28:50"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-08 15:28:54"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 15:28:54"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-05-08 15:28:54"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 15:28:54"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 15:30:23"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-08 15:30:23"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 15:30:23"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-05-08 15:30:23"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 15:30:53"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-05-08 15:30:58"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 15:30:58"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 15:31:15"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 15:31:23"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-05-08 15:31:31"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-05-08 15:31:33"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 15:31:33"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 15:31:34"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-08 15:31:35"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 15:31:35"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-05-08 15:31:35"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 15:31:37"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-08 15:31:53"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 15:31:53"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-05-08 15:31:53"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 15:31:53"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 15:32:23"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 15:33:00"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-08 15:33:00"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 15:33:00"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-05-08 15:33:00"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 15:33:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 16:08:17"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-08 16:08:17"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 16:08:17"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-05-08 16:08:17"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 16:08:19"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 16:08:19"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-05-08 16:08:20"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 16:08:20"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-05-08 16:08:21"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-05-08 16:08:29"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-05-08 16:08:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 16:09:57"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-05-08 16:09:57"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 16:10:00"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 16:10:03"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 16:19:56"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 16:20:30"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 16:20:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 16:20:30"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 16:24:39"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 16:24:39"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 16:24:39"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 16:59:39"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-05-08 16:59:58"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 16:59:58"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-05-08 17:00:09"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 17:00:09"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 17:00:39"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-05-08 17:01:09"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 17:01:09"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 17:01:39"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-05-08 17:02:09"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 17:02:09"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 17:02:39"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-05-08 17:11:41"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 17:11:41"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 17:12:11"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-05-08 17:12:41"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 17:12:42"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-05-08 17:15:27"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 17:15:29"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-05-08 17:15:30"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 17:15:30"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 17:15:31"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-08 17:15:36"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 17:15:36"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-05-08 17:15:36"}
+{"ip":"::1","level":"info","message":"GET /api/users","timestamp":"2026-05-08 17:15:40"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 17:15:42"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 17:16:12"}
+{"ip":"::1","level":"info","message":"POST /api/auth/register","timestamp":"2026-05-08 17:16:30"}
+{"ip":"::1","level":"info","message":"GET /api/users","timestamp":"2026-05-08 17:16:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 17:16:42"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-05-08 17:17:02"}
+{"level":"info","message":"Login exitoso: carlos@hotmail.com (facturacion)","timestamp":"2026-05-08 17:17:02"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-08 17:17:06"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 17:17:06"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-05-08 17:17:06"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 17:17:06"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 17:17:13"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 17:17:13"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 17:17:14"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-05-08 17:17:15"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 17:17:15"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 17:17:16"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-05-08 17:17:17"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-05-08 17:17:18"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 17:17:22"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 17:17:23"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 17:17:36"}
+{"ip":"::1","level":"info","message":"POST /api/invoices/cdb0439a-3106-4d90-9b65-b6f4ff147cfd/pay","timestamp":"2026-05-08 17:17:37"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-05-08 17:17:37"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 17:17:37"}
+{"ip":"::1","level":"info","message":"POST /api/invoices/generate-monthly","timestamp":"2026-05-08 17:17:41"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-05-08 17:17:41"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 17:17:45"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 17:17:45"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-08 17:17:46"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 17:17:46"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-05-08 17:17:46"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 17:17:51"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 17:17:53"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-05-08 17:17:54"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 17:17:56"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-08 17:30:08"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 17:30:08"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-05-08 17:30:08"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 17:30:08"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 17:55:47"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-08 17:55:47"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 17:55:47"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-05-08 17:55:47"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-08 17:56:13"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 17:56:13"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 17:56:14"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 17:56:17"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-05-08 17:56:26"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 17:56:26"}
+{"ip":"::1","level":"info","message":"POST /api/invoices/generate-monthly","timestamp":"2026-05-08 17:56:27"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-05-08 17:56:27"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 17:56:36"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 17:56:38"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 17:56:47"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 17:57:14"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-08 17:57:15"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 17:57:17"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-08 18:05:33"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-08 18:05:33"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-05-08 18:05:33"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-08 18:05:33"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-05-11 10:20:06"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-05-11 10:20:06"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-05-11 10:20:06"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-05-11 10:20:06"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-05-11 10:20:06"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-05-11 10:20:24"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-05-11 10:20:25"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-11 10:20:25"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-11 10:20:25"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-05-11 10:20:25"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-11 10:20:25"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-11 10:20:28"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-11 10:20:28"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-11 10:20:29"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-05-11 10:20:29"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-05-11 10:20:32"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-11 10:20:33"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-11 10:20:37"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-11 10:20:39"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-11 10:20:40"}
+{"ip":"::1","level":"info","message":"GET /api/users","timestamp":"2026-05-11 10:20:42"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-11 10:20:55"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-05-11 10:21:02"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-11 10:21:02"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-05-11 10:21:02"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-05-11 10:21:04"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-05-11 10:21:04"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-11 10:21:05"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-05-11 10:21:05"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-11 11:48:12"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-05-11 11:48:12"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-11 11:48:12"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-11 11:48:54"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-05-11 11:48:54"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-11 11:48:54"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-11 11:49:24"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-11 11:49:54"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-11 11:50:25"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-05-11 12:05:32"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-05-11 12:05:32"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-05-11 12:05:32"}
+{"level":"error","message":"❌ Error al iniciar servidor: la autentificaci�n password fall� para el usuario �postgres�","name":"SequelizeConnectionError","original":{"code":"28P01","file":"auth.c","length":114,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"parent":{"code":"28P01","file":"auth.c","length":114,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"stack":"SequelizeConnectionError: la autentificaci�n password fall� para el usuario �postgres�\n    at Client._connectionCallback (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\dialects\\postgres\\connection-manager.js:145:24)\n    at Client._handleErrorWhileConnecting (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:379:19)\n    at Client._handleErrorMessage (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:399:19)\n    at Connection.emit (node:events:509:28)\n    at C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\connection.js:115:12\n    at Parser.parse (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\parser.js:38:17)\n    at Socket.<anonymous> (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\index.js:11:42)\n    at Socket.emit (node:events:509:28)\n    at addChunk (node:internal/streams/readable:563:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)","timestamp":"2026-06-01 21:36:45"}
+{"level":"error","message":"❌ Error al iniciar servidor: la autentificaci�n password fall� para el usuario �postgres�","name":"SequelizeConnectionError","original":{"code":"28P01","file":"auth.c","length":114,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"parent":{"code":"28P01","file":"auth.c","length":114,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"stack":"SequelizeConnectionError: la autentificaci�n password fall� para el usuario �postgres�\n    at Client._connectionCallback (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\dialects\\postgres\\connection-manager.js:145:24)\n    at Client._handleErrorWhileConnecting (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:379:19)\n    at Client._handleErrorMessage (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:399:19)\n    at Connection.emit (node:events:509:28)\n    at C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\connection.js:115:12\n    at Parser.parse (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\parser.js:38:17)\n    at Socket.<anonymous> (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\index.js:11:42)\n    at Socket.emit (node:events:509:28)\n    at addChunk (node:internal/streams/readable:563:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)","timestamp":"2026-06-01 21:38:07"}
+{"level":"error","message":"❌ Error al iniciar servidor: la autentificaci�n password fall� para el usuario �postgres�","name":"SequelizeConnectionError","original":{"code":"28P01","file":"auth.c","length":114,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"parent":{"code":"28P01","file":"auth.c","length":114,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"stack":"SequelizeConnectionError: la autentificaci�n password fall� para el usuario �postgres�\n    at Client._connectionCallback (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\dialects\\postgres\\connection-manager.js:145:24)\n    at Client._handleErrorWhileConnecting (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:379:19)\n    at Client._handleErrorMessage (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:399:19)\n    at Connection.emit (node:events:509:28)\n    at C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\connection.js:115:12\n    at Parser.parse (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\parser.js:38:17)\n    at Socket.<anonymous> (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\index.js:11:42)\n    at Socket.emit (node:events:509:28)\n    at addChunk (node:internal/streams/readable:563:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)","timestamp":"2026-06-01 21:38:14"}
+{"level":"error","message":"❌ Error al iniciar servidor: la autentificaci�n password fall� para el usuario �postgres�","name":"SequelizeConnectionError","original":{"code":"28P01","file":"auth.c","length":114,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"parent":{"code":"28P01","file":"auth.c","length":114,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"stack":"SequelizeConnectionError: la autentificaci�n password fall� para el usuario �postgres�\n    at Client._connectionCallback (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\dialects\\postgres\\connection-manager.js:145:24)\n    at Client._handleErrorWhileConnecting (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:379:19)\n    at Client._handleErrorMessage (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:399:19)\n    at Connection.emit (node:events:509:28)\n    at C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\connection.js:115:12\n    at Parser.parse (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\parser.js:38:17)\n    at Socket.<anonymous> (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\index.js:11:42)\n    at Socket.emit (node:events:509:28)\n    at addChunk (node:internal/streams/readable:563:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)","timestamp":"2026-06-01 21:38:19"}
+{"level":"error","message":"❌ Error al iniciar servidor: la autentificaci�n password fall� para el usuario �postgres�","name":"SequelizeConnectionError","original":{"code":"28P01","file":"auth.c","length":114,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"parent":{"code":"28P01","file":"auth.c","length":114,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"stack":"SequelizeConnectionError: la autentificaci�n password fall� para el usuario �postgres�\n    at Client._connectionCallback (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\dialects\\postgres\\connection-manager.js:145:24)\n    at Client._handleErrorWhileConnecting (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:379:19)\n    at Client._handleErrorMessage (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:399:19)\n    at Connection.emit (node:events:509:28)\n    at C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\connection.js:115:12\n    at Parser.parse (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\parser.js:38:17)\n    at Socket.<anonymous> (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\index.js:11:42)\n    at Socket.emit (node:events:509:28)\n    at addChunk (node:internal/streams/readable:563:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)","timestamp":"2026-06-01 21:38:48"}
+{"level":"error","message":"❌ Error al iniciar servidor: la autentificaci�n password fall� para el usuario �postgres�","name":"SequelizeConnectionError","original":{"code":"28P01","file":"auth.c","length":114,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"parent":{"code":"28P01","file":"auth.c","length":114,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"stack":"SequelizeConnectionError: la autentificaci�n password fall� para el usuario �postgres�\n    at Client._connectionCallback (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\dialects\\postgres\\connection-manager.js:145:24)\n    at Client._handleErrorWhileConnecting (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:379:19)\n    at Client._handleErrorMessage (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:399:19)\n    at Connection.emit (node:events:509:28)\n    at C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\connection.js:115:12\n    at Parser.parse (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\parser.js:38:17)\n    at Socket.<anonymous> (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\index.js:11:42)\n    at Socket.emit (node:events:509:28)\n    at addChunk (node:internal/streams/readable:563:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)","timestamp":"2026-06-01 21:45:28"}
+{"level":"error","message":"❌ Error al iniciar servidor: la autentificaci�n password fall� para el usuario �postgres�","name":"SequelizeConnectionError","original":{"code":"28P01","file":"auth.c","length":114,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"parent":{"code":"28P01","file":"auth.c","length":114,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"stack":"SequelizeConnectionError: la autentificaci�n password fall� para el usuario �postgres�\n    at Client._connectionCallback (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\dialects\\postgres\\connection-manager.js:145:24)\n    at Client._handleErrorWhileConnecting (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:379:19)\n    at Client._handleErrorMessage (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:399:19)\n    at Connection.emit (node:events:509:28)\n    at C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\connection.js:115:12\n    at Parser.parse (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\parser.js:38:17)\n    at Socket.<anonymous> (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\index.js:11:42)\n    at Socket.emit (node:events:509:28)\n    at addChunk (node:internal/streams/readable:563:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)","timestamp":"2026-06-01 21:45:41"}
+{"level":"error","message":"❌ Error al iniciar servidor: la autentificaci�n password fall� para el usuario �postgres�","name":"SequelizeConnectionError","original":{"code":"28P01","file":"auth.c","length":114,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"parent":{"code":"28P01","file":"auth.c","length":114,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"stack":"SequelizeConnectionError: la autentificaci�n password fall� para el usuario �postgres�\n    at Client._connectionCallback (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\dialects\\postgres\\connection-manager.js:145:24)\n    at Client._handleErrorWhileConnecting (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:379:19)\n    at Client._handleErrorMessage (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:399:19)\n    at Connection.emit (node:events:509:28)\n    at C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\connection.js:115:12\n    at Parser.parse (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\parser.js:38:17)\n    at Socket.<anonymous> (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\index.js:11:42)\n    at Socket.emit (node:events:509:28)\n    at addChunk (node:internal/streams/readable:563:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)","timestamp":"2026-06-01 21:47:00"}
+{"level":"error","message":"❌ Error al iniciar servidor: la autentificaci�n password fall� para el usuario �postgres�","name":"SequelizeConnectionError","original":{"code":"28P01","file":"auth.c","length":114,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"parent":{"code":"28P01","file":"auth.c","length":114,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"stack":"SequelizeConnectionError: la autentificaci�n password fall� para el usuario �postgres�\n    at Client._connectionCallback (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\dialects\\postgres\\connection-manager.js:145:24)\n    at Client._handleErrorWhileConnecting (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:379:19)\n    at Client._handleErrorMessage (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:399:19)\n    at Connection.emit (node:events:509:28)\n    at C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\connection.js:115:12\n    at Parser.parse (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\parser.js:38:17)\n    at Socket.<anonymous> (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\index.js:11:42)\n    at Socket.emit (node:events:509:28)\n    at addChunk (node:internal/streams/readable:563:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)","timestamp":"2026-06-01 21:47:07"}
+{"level":"error","message":"❌ Error al iniciar servidor: la autentificaci�n password fall� para el usuario �postgres�","name":"SequelizeConnectionError","original":{"code":"28P01","file":"auth.c","length":114,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"parent":{"code":"28P01","file":"auth.c","length":114,"line":"320","name":"error","routine":"auth_failed","severity":"FATAL"},"stack":"SequelizeConnectionError: la autentificaci�n password fall� para el usuario �postgres�\n    at Client._connectionCallback (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\dialects\\postgres\\connection-manager.js:145:24)\n    at Client._handleErrorWhileConnecting (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:379:19)\n    at Client._handleErrorMessage (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:399:19)\n    at Connection.emit (node:events:509:28)\n    at C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\connection.js:115:12\n    at Parser.parse (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\parser.js:38:17)\n    at Socket.<anonymous> (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\index.js:11:42)\n    at Socket.emit (node:events:509:28)\n    at addChunk (node:internal/streams/readable:563:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)","timestamp":"2026-06-01 21:48:15"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-01 22:35:07"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-01 22:35:08"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-01 22:35:08"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-01 22:35:08"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-01 22:35:08"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-01 22:35:15"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-01 22:35:16"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-01 22:35:16"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-01 22:35:16"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-01 22:35:16"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-01 22:38:17"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-01 22:39:12"}
+{"level":"error","message":"❌ Error al iniciar servidor: no existe la base de datos �wisp_db�","name":"SequelizeConnectionError","original":{"code":"3D000","file":"postinit.c","length":96,"line":"1016","name":"error","routine":"InitPostgres","severity":"FATAL"},"parent":{"code":"3D000","file":"postinit.c","length":96,"line":"1016","name":"error","routine":"InitPostgres","severity":"FATAL"},"stack":"SequelizeConnectionError: no existe la base de datos �wisp_db�\n    at Client._connectionCallback (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\dialects\\postgres\\connection-manager.js:145:24)\n    at Client._handleErrorWhileConnecting (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:379:19)\n    at Client._handleErrorMessage (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:399:19)\n    at Connection.emit (node:events:509:28)\n    at C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\connection.js:115:12\n    at Parser.parse (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\parser.js:38:17)\n    at Socket.<anonymous> (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\index.js:11:42)\n    at Socket.emit (node:events:509:28)\n    at addChunk (node:internal/streams/readable:563:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)","timestamp":"2026-06-01 23:21:01"}
+{"level":"error","message":"❌ Error al iniciar servidor: no existe la base de datos �wisp_db�","name":"SequelizeConnectionError","original":{"code":"3D000","file":"postinit.c","length":96,"line":"1016","name":"error","routine":"InitPostgres","severity":"FATAL"},"parent":{"code":"3D000","file":"postinit.c","length":96,"line":"1016","name":"error","routine":"InitPostgres","severity":"FATAL"},"stack":"SequelizeConnectionError: no existe la base de datos �wisp_db�\n    at Client._connectionCallback (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\dialects\\postgres\\connection-manager.js:145:24)\n    at Client._handleErrorWhileConnecting (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:379:19)\n    at Client._handleErrorMessage (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\client.js:399:19)\n    at Connection.emit (node:events:509:28)\n    at C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg\\lib\\connection.js:115:12\n    at Parser.parse (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\parser.js:38:17)\n    at Socket.<anonymous> (C:\\Users\\STAyTMEX-SERVER\\Documents\\Proyecto Programacion web\\wisp-manager\\backend\\node_modules\\pg-protocol\\dist\\index.js:11:42)\n    at Socket.emit (node:events:509:28)\n    at addChunk (node:internal/streams/readable:563:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)","timestamp":"2026-06-01 23:21:18"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-01 23:33:36"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-01 23:33:37"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-01 23:33:37"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-01 23:33:37"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-01 23:33:37"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-01 23:35:22"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-01 23:35:24"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-01 23:35:24"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-01 23:35:24"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-01 23:35:24"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-01 23:35:24"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-01 23:35:53"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-01 23:35:53"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-01 23:37:01"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-01 23:37:01"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-01 23:37:01"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-01 23:37:01"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-01 23:38:47"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-01 23:38:48"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-01 23:38:48"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-01 23:38:48"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-01 23:38:48"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-01 23:39:10"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-01 23:39:10"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-01 23:39:10"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-01 23:39:10"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-01 23:39:14"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-01 23:39:14"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-01 23:39:14"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-01 23:39:14"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-01 23:39:16"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-01 23:39:16"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-01 23:39:44"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-01 23:40:14"}
+{"ip":"::1","level":"info","message":"POST /api/clients","timestamp":"2026-06-01 23:40:30"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-01 23:40:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-01 23:41:56"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-01 23:41:56"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-01 23:41:56"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-01 23:52:20"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-01 23:52:21"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-01 23:52:21"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-01 23:52:21"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-01 23:52:21"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-01 23:52:40"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-01 23:52:41"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-01 23:52:41"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-01 23:52:41"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-01 23:52:41"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-01 23:52:53"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-01 23:52:54"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-01 23:52:54"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-01 23:52:54"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-01 23:52:54"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-01 23:53:33"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-01 23:53:33"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-01 23:53:33"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-01 23:53:35"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-01 23:53:35"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-01 23:53:35"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-01 23:53:41"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-01 23:53:42"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-01 23:53:42"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-01 23:53:42"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-01 23:53:42"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-01 23:57:07"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-01 23:57:07"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-01 23:57:07"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-01 23:57:07"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-01 23:57:09"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-01 23:57:09"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-01 23:57:13"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-01 23:57:13"}
+{"ip":"::1","level":"info","message":"POST /api/clients/8c72111a-3efe-44a4-bdf9-114e67dddeba/suspend","timestamp":"2026-06-01 23:57:17"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-01 23:57:17"}
+{"ip":"::1","level":"info","message":"GET /api/clients/8c72111a-3efe-44a4-bdf9-114e67dddeba","timestamp":"2026-06-01 23:57:18"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-01 23:57:33"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-01 23:57:37"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-01 23:57:42"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-01 23:57:43"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-01 23:57:47"}
+{"ip":"::1","level":"info","message":"GET /api/users","timestamp":"2026-06-01 23:57:50"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-01 23:58:07"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-01 23:58:37"}
+{"ip":"::1","level":"info","message":"POST /api/auth/register","timestamp":"2026-06-01 23:58:40"}
+{"ip":"::1","level":"info","message":"GET /api/users","timestamp":"2026-06-01 23:58:40"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-01 23:58:59"}
+{"level":"info","message":"Login exitoso: juan@wisp.mx (tecnico)","timestamp":"2026-06-01 23:59:00"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-01 23:59:00"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-01 23:59:00"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-01 23:59:00"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-01 23:59:01"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-01 23:59:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-02 00:00:00"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-02 00:00:00"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-02 00:00:07"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-02 00:00:07"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-02 00:00:08"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-02 00:00:08"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-02 00:00:09"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-02 00:00:09"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-02 00:00:10"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-02 00:00:11"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-02 00:00:15"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-02 00:00:15"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-02 00:00:16"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-02 00:00:16"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-02 00:00:16"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-02 00:00:17"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-02 00:00:18"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-02 00:00:18"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-02 00:00:19"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-02 00:00:19"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-02 00:00:20"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-02 00:00:20"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-02 00:00:20"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-02 00:00:21"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-02 00:00:22"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-02 00:00:23"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-02 00:00:24"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-02 00:00:24"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-02 00:00:24"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-02 00:00:24"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-02 00:00:24"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-02 00:00:25"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-02 00:00:26"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-02 00:00:31"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-02 00:00:32"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-02 00:00:32"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-02 00:00:32"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-02 00:00:32"}
+{"ip":"::1","level":"info","message":"GET /api/users","timestamp":"2026-06-02 00:00:33"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-02 00:01:02"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-02 00:01:32"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-02 00:02:02"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-02 00:02:32"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-02 00:03:02"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-02 00:07:04"}
+{"ip":"::1","level":"info","message":"GET /api/users","timestamp":"2026-06-02 00:07:04"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-02 00:07:58"}
+{"ip":"::1","level":"info","message":"GET /api/users","timestamp":"2026-06-02 00:07:58"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-02 00:09:16"}
+{"ip":"::1","level":"info","message":"GET /api/users","timestamp":"2026-06-02 00:09:16"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-02 00:09:47"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-02 00:10:17"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-02 00:10:47"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-02 00:11:17"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-02 00:32:26"}
+{"ip":"::1","level":"info","message":"GET /api/users","timestamp":"2026-06-02 00:32:26"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-02 00:32:31"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-02 00:32:32"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-02 00:32:32"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-02 00:32:32"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-02 00:32:32"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-02 00:33:02"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-02 00:33:32"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-02 00:33:32"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-02 00:34:02"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-02 00:34:37"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-02 00:34:38"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-02 00:34:38"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-02 00:34:38"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-02 00:34:38"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-02 00:34:43"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-02 00:34:43"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-02 00:34:43"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-02 00:34:43"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-02 00:35:35"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-02 00:35:35"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-02 00:35:35"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-02 00:35:35"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-02 00:44:18"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-02 00:44:20"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-02 00:48:12"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-02 00:48:12"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-02 00:48:13"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-02 00:48:13"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-02 00:48:14"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-02 00:48:14"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-02 00:48:14"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-02 00:48:45"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-02 00:48:46"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-02 00:48:46"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-02 00:48:46"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-02 00:48:46"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-02 00:49:32"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-02 00:49:32"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-02 00:49:32"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-02 00:49:32"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-02 00:49:41"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-02 00:49:41"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-07 13:17:39"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-07 13:17:40"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-07 13:17:40"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-07 13:17:40"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-07 13:17:40"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-07 13:18:12"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-07 13:18:12"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-07 13:18:12"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-07 13:18:12"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-07 13:18:12"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-07 13:18:12"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-07 13:18:18"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-07 13:18:18"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-07 13:18:27"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-07 13:18:27"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-07 13:18:35"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-07 13:18:37"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-07 13:18:43"}
+{"ip":"::1","level":"info","message":"POST /api/clients/8c72111a-3efe-44a4-bdf9-114e67dddeba/activate","timestamp":"2026-06-07 13:18:53"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-07 13:18:53"}
+{"ip":"::1","level":"info","message":"POST /api/clients/8c72111a-3efe-44a4-bdf9-114e67dddeba/suspend","timestamp":"2026-06-07 13:18:55"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-07 13:18:55"}
+{"ip":"::1","level":"info","message":"GET /api/clients/8c72111a-3efe-44a4-bdf9-114e67dddeba","timestamp":"2026-06-07 13:18:56"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-07 13:19:10"}
+{"ip":"::1","level":"info","message":"GET /api/users","timestamp":"2026-06-07 13:19:11"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-07 13:19:13"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-07 13:19:16"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-07 13:19:16"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-07 13:19:16"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-07 13:19:17"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-07 13:19:17"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-07 13:19:18"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-07 13:19:18"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-07 13:19:19"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-07 13:25:09"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-07 13:25:09"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-07 13:25:11"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-07 13:25:11"}
+{"ip":"::1","level":"info","message":"GET /api/clients/8c72111a-3efe-44a4-bdf9-114e67dddeba","timestamp":"2026-06-07 13:25:15"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-07 13:25:39"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-07 13:25:40"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-07 13:25:43"}
+{"ip":"::1","level":"info","message":"GET /api/users","timestamp":"2026-06-07 13:25:46"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-07 13:26:01"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-07 13:26:07"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-07 13:26:07"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-07 13:26:09"}
+{"ip":"::1","level":"info","message":"POST /api/invoices/399e5ccb-78dd-4310-9b28-f25f4a11a1b0/pay","timestamp":"2026-06-07 13:26:24"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-07 13:26:24"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-07 13:26:24"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-07 13:26:40"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-07 13:27:00"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-07 13:27:00"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-07 13:27:10"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-07 13:27:16"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-07 13:27:16"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-07 13:27:16"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-07 14:17:44"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-07 14:17:44"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-07 14:17:44"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-07 14:17:44"}
