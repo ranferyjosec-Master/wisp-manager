@@ -82,14 +82,14 @@ async function seed() {
 
     // ── Dispositivo MikroTik de ejemplo ─────────────────────
     await MikrotikDevice.findOrCreate({
-      where: { host: '192.168.1.1' },
+      where: { host: '10.5.54.1' },
       defaults: {
         name: 'MK-Principal',
-        host: '192.168.1.1',
+        host: '10.5.54.1',
         port: 8728,
-        username: 'admin',
-        password: '',  // Cambiar por la contraseña real
-        model: 'CCR1036',
+        username: 'wisp-api',
+        password: '142306',  // Cambiar por la contraseña real
+        model: 'RB750GR3',
         status: 'unknown',
         isActive: true
       }
