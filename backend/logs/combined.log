@@ -985,3 +985,1482 @@
 {"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-20 05:05:02"}
 {"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-20 05:05:05"}
 {"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-20 05:05:05"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 07:34:53"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 07:34:54"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-20 07:34:54"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-20 07:34:54"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-20 07:34:54"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 07:36:03"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 07:36:04"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-20 07:36:04"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-20 07:36:04"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-20 07:36:04"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 07:36:08"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 07:36:09"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-20 07:36:09"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-20 07:36:09"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-20 07:36:09"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-20 07:36:22"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-20 07:36:23"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-20 07:36:23"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-20 07:36:23"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-20 07:36:23"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-20 07:36:23"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-20 07:36:27"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-20 07:36:27"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-20 07:36:55"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 07:41:27"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 07:41:29"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-20 07:41:29"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-20 07:41:29"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-20 07:41:29"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 07:41:34"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 07:41:34"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-20 07:41:34"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-20 07:41:34"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-20 07:41:34"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 07:41:44"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 07:41:44"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-20 07:41:44"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-20 07:41:44"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-20 07:41:44"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-20 07:42:01"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-20 07:42:01"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-20 07:42:01"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-20 07:42:03"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-20 07:42:03"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-20 07:42:03"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 07:44:36"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 07:44:37"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-20 07:44:37"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-20 07:44:37"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-20 07:44:37"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 07:44:43"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 07:44:44"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-20 07:44:44"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-20 07:44:44"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-20 07:44:44"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-20 07:44:52"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-20 07:44:52"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-20 07:44:52"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-20 07:44:52"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-20 07:44:54"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-20 07:44:54"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-20 07:44:54"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-20 07:44:54"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-20 07:44:57"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-20 07:44:57"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 07:51:08"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 07:51:09"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-20 07:51:09"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-20 07:51:09"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-20 07:51:09"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 11:29:35"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 11:29:38"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-20 11:29:38"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-20 11:29:38"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-20 11:29:38"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-20 11:30:06"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-20 11:30:06"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-20 11:30:06"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-20 11:30:06"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 11:31:25"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 11:31:26"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-20 11:31:26"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-20 11:31:26"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-20 11:31:26"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 11:31:33"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 11:31:34"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-20 11:31:34"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-20 11:31:34"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-20 11:31:34"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-20 11:31:51"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-20 11:31:51"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-20 11:31:52"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-20 11:31:52"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-20 11:31:52"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-20 11:31:52"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-20 11:31:54"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-20 11:31:54"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 11:41:09"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 11:41:10"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-20 11:41:10"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-20 11:41:10"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-20 11:41:10"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 11:43:01"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 11:43:02"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-20 11:43:02"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-20 11:43:02"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-20 11:43:02"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-20 11:43:34"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-20 11:43:34"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-20 11:43:34"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-20 11:43:34"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-20 11:43:34"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-20 11:43:34"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-20 11:43:39"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-20 11:43:39"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-20 11:44:05"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 11:47:47"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 11:47:48"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-20 11:47:48"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-20 11:47:48"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-20 11:47:48"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 11:47:50"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 11:47:51"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-20 11:47:51"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-20 11:47:51"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-20 11:47:51"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-20 11:47:51"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-20 11:47:55"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-20 11:47:55"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-20 11:47:55"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-20 11:48:02"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-20 11:48:02"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-20 11:48:06"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-20 11:48:06"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 11:55:33"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 11:55:34"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-20 11:55:34"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-20 11:55:34"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-20 11:55:34"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 11:56:04"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 11:56:05"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 11:56:05"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-20 11:56:05"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-20 11:56:05"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-20 11:56:05"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 11:56:06"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 11:57:56"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 11:57:57"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-20 11:57:57"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-20 11:57:57"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-20 11:57:57"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 11:58:07"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 11:58:08"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-20 11:58:08"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-20 11:58:08"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-20 11:58:08"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-20 11:58:27"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-20 11:58:28"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-20 11:58:28"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-20 11:58:28"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-20 11:58:28"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-20 11:58:28"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-20 11:58:30"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-20 11:58:30"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 12:05:34"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 12:05:35"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-20 12:05:35"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-20 12:05:35"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-20 12:05:35"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 12:24:59"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 12:25:00"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-20 12:25:00"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-20 12:25:00"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-20 12:25:00"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-20 12:25:13"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-20 12:25:13"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-20 12:25:13"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-20 12:25:20"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-20 12:25:21"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-20 12:25:21"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-20 12:25:22"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-20 12:25:23"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-20 12:25:23"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-20 12:25:23"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-20 12:25:27"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-20 12:26:07"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-20 12:26:07"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-20 12:26:07"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-20 12:26:07"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-20 12:26:08"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-20 12:26:08"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 12:34:38"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 12:34:39"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-20 12:34:39"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-20 12:34:39"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-20 12:34:39"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 12:34:45"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 12:34:46"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-20 12:34:46"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-20 12:34:46"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-20 12:34:46"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-20 12:35:01"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-20 12:35:02"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-20 12:35:02"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-20 12:35:02"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-20 12:35:02"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-20 12:35:02"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-20 12:35:05"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-20 12:35:05"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-20 12:35:06"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-20 12:35:06"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-20 12:35:07"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-20 12:35:07"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-20 12:36:29"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-20 12:36:30"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-20 12:36:30"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-20 12:36:30"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-20 12:36:30"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 14:45:51"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 14:45:52"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 14:45:52"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 14:45:52"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 14:45:52"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 14:47:21"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 14:47:22"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 14:47:22"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 14:47:22"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 14:47:22"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 14:47:24"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 14:47:25"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 14:47:25"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 14:47:25"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 14:47:25"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-21 14:47:37"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-21 14:47:38"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 14:47:38"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 14:47:38"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 14:47:38"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 14:47:38"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 14:47:41"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-21 14:47:41"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 14:47:43"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 14:47:43"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 14:48:08"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 14:50:46"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 14:50:47"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 14:50:47"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 14:50:47"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 14:50:47"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 15:11:52"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 15:11:53"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 15:11:53"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 15:11:53"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 15:11:53"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getDeviceInfo is not a function","stack":"TypeError: mikrotikService.getDeviceInfo is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:32:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:12:00"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:12:07"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 15:12:07"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 15:12:07"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 15:12:07"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-21 15:12:12"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-21 15:12:12"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-21 15:12:18"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-21 15:12:18"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 15:12:20"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 15:12:20"}
+{"ip":"::1","level":"info","message":"POST /api/clients","timestamp":"2026-06-21 15:12:47"}
+{"level":"warn","message":"No se pudo crear usuario en MikroTik:","timestamp":"2026-06-21 15:12:47"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 15:12:47"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:12:48"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getDeviceInfo is not a function","stack":"TypeError: mikrotikService.getDeviceInfo is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:32:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:13:00"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getDeviceInfo is not a function","stack":"TypeError: mikrotikService.getDeviceInfo is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:32:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:14:00"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:14:09"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 15:14:09"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 15:14:09"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 15:14:23"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-21 15:14:24"}
+{"ip":"::1","level":"info","message":"GET /api/users","timestamp":"2026-06-21 15:14:26"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:14:31"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 15:14:33"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 15:14:34"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 15:14:34"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 15:14:34"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:14:40"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getDeviceInfo is not a function","stack":"TypeError: mikrotikService.getDeviceInfo is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:32:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:15:00"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:15:10"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 15:15:31"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 15:15:31"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 15:15:31"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:15:40"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getDeviceInfo is not a function","stack":"TypeError: mikrotikService.getDeviceInfo is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:32:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:16:01"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:16:10"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 15:16:32"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getDeviceInfo is not a function","stack":"TypeError: mikrotikService.getDeviceInfo is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:32:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:17:00"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:17:03"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 15:17:03"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 15:17:03"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 15:17:03"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getDeviceInfo is not a function","stack":"TypeError: mikrotikService.getDeviceInfo is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:32:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:18:00"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getDeviceInfo is not a function","stack":"TypeError: mikrotikService.getDeviceInfo is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:32:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:19:00"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 15:20:00"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 15:20:01"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 15:20:02"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 15:20:02"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 15:20:02"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 15:20:02"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:20:18"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 15:20:18"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 15:20:18"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 15:20:18"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getDeviceInfo is not a function","stack":"TypeError: mikrotikService.getDeviceInfo is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:32:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:21:00"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 15:21:07"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 15:21:08"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 15:21:08"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 15:21:08"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 15:21:08"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 15:21:17"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 15:21:18"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 15:21:18"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 15:21:18"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 15:21:18"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:21:39"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 15:21:39"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 15:21:39"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 15:21:39"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 15:21:42"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 15:21:42"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 15:21:42"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:21:42"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 15:21:46"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 15:21:46"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getDeviceInfo is not a function","stack":"TypeError: mikrotikService.getDeviceInfo is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:32:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:22:00"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:22:12"}
+{"ip":"::1","level":"info","message":"POST /api/clients","timestamp":"2026-06-21 15:22:35"}
+{"level":"warn","message":"No se pudo crear usuario en MikroTik:","timestamp":"2026-06-21 15:22:35"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 15:22:35"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-21 15:22:38"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 15:22:38"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 15:22:41"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 15:22:41"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 15:22:41"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 15:22:41"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:22:42"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getDeviceInfo is not a function","stack":"TypeError: mikrotikService.getDeviceInfo is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:32:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:23:00"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-21 15:23:11"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-21 15:23:12"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 15:23:12"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 15:23:12"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 15:23:12"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 15:23:14"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-21 15:23:14"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:23:28"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 15:23:43"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 15:23:43"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getDeviceInfo is not a function","stack":"TypeError: mikrotikService.getDeviceInfo is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:32:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:24:00"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getDeviceInfo is not a function","stack":"TypeError: mikrotikService.getDeviceInfo is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:32:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:25:00"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getDeviceInfo is not a function","stack":"TypeError: mikrotikService.getDeviceInfo is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:32:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:26:00"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getDeviceInfo is not a function","stack":"TypeError: mikrotikService.getDeviceInfo is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:32:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:27:00"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getDeviceInfo is not a function","stack":"TypeError: mikrotikService.getDeviceInfo is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:32:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:28:00"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 15:28:47"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:28:47"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 15:28:47"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getDeviceInfo is not a function","stack":"TypeError: mikrotikService.getDeviceInfo is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:32:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:29:00"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getDeviceInfo is not a function","stack":"TypeError: mikrotikService.getDeviceInfo is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:32:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:30:00"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getDeviceInfo is not a function","stack":"TypeError: mikrotikService.getDeviceInfo is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:32:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:31:00"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getDeviceInfo is not a function","stack":"TypeError: mikrotikService.getDeviceInfo is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:32:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:32:00"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getDeviceInfo is not a function","stack":"TypeError: mikrotikService.getDeviceInfo is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:32:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:33:00"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:33:40"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 15:33:40"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 15:33:40"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 15:33:42"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 15:33:42"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:33:42"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 15:33:45"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-21 15:33:45"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getDeviceInfo is not a function","stack":"TypeError: mikrotikService.getDeviceInfo is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:32:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:34:00"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:34:52"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 15:34:52"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-21 15:34:52"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 15:34:54"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getDeviceInfo is not a function","stack":"TypeError: mikrotikService.getDeviceInfo is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:32:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:35:00"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:35:22"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 15:35:43"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:35:52"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getDeviceInfo is not a function","stack":"TypeError: mikrotikService.getDeviceInfo is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:32:44)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:36:00"}
+{"ip":"::1","level":"info","message":"POST /api/plans","timestamp":"2026-06-21 15:36:17"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 15:36:17"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:36:22"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 15:43:06"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 15:43:08"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 15:43:09"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 15:43:09"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 15:43:09"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 15:43:09"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 15:43:12"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 15:43:13"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 15:43:13"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 15:43:13"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 15:43:13"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 15:43:31"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 15:43:32"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 15:43:40"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 15:43:41"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 15:43:41"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 15:43:41"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 15:43:41"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 15:43:41"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 15:43:42"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 15:43:44"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 15:43:45"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 15:43:45"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 15:43:45"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 15:43:45"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getTraffic is not a function","stack":"TypeError: mikrotikService.getTraffic is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:34:35)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:44:00"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-21 15:44:02"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-21 15:44:02"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 15:44:02"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 15:44:02"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 15:44:02"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:44:02"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 15:44:05"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 15:44:05"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 15:51:25"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 15:51:31"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 15:51:32"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 15:51:32"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 15:51:32"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 15:51:32"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:51:57"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 15:51:57"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 15:52:00"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:52:00"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-21 15:52:00"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getTraffic is not a function","stack":"TypeError: mikrotikService.getTraffic is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:34:35)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:52:00"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 15:52:01"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 15:56:13"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 15:56:32"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 15:56:33"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 15:56:33"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 15:56:33"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 15:56:33"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:56:37"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 15:56:42"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 15:56:42"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 15:56:42"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-21 15:56:47"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-21 15:56:48"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 15:56:48"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 15:56:48"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 15:56:48"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 15:56:50"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-21 15:56:51"}
+{"level":"error","message":"Error en monitoreo: mikrotikService.getTraffic is not a function","stack":"TypeError: mikrotikService.getTraffic is not a function\n    at MikrotikMonitor.checkAllDevices (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:34:35)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Task._execution (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\services\\mikrotikMonitor.js:10:7)","timestamp":"2026-06-21 15:57:00"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 16:19:16"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 16:19:17"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 16:19:17"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 16:19:17"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 16:19:17"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 16:19:38"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 16:19:38"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 16:19:38"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 16:19:38"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 16:19:38"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 16:19:41"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 16:19:41"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 16:19:41"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 16:19:41"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 16:19:41"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 16:19:50"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 16:19:50"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 16:19:53"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 16:19:53"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 16:19:59"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-21 16:19:59"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 10 seconds","timestamp":"2026-06-21 16:20:10"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 16:20:23"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 16:20:32"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 16:20:32"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 16:20:32"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 16:20:35"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 16:20:35"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 16:20:54"}
+{"ip":"::1","level":"info","message":"POST /api/clients","timestamp":"2026-06-21 16:21:03"}
+{"errors":[],"fields":{},"level":"error","message":"Error creando cliente: llave duplicada viola restricción de unicidad «Clients_ipAddress_key53»","name":"SequelizeUniqueConstraintError","original":{"code":"23505","constraint":"Clients_ipAddress_key53","detail":"Ya existe la llave (\"ipAddress\")=(10.5.54.46).","file":"nbtinsert.c","length":228,"line":"673","name":"error","parameters":["84257dbe-7797-4411-b94c-53cdb603c33e","junajose","jimenes","juan@wisp.mx","1111111111","dvszs","norte","10.5.54.46","","activo","2026-06-21","","9a50c364-3c43-43ec-bb85-a63ffdf6cebd","2026-06-21 22:21:03.896 +00:00","2026-06-21 22:21:03.896 +00:00"],"routine":"_bt_check_unique","schema":"public","severity":"ERROR","sql":"INSERT INTO \"Clients\" (\"id\",\"name\",\"lastName\",\"email\",\"phone\",\"address\",\"sector\",\"ipAddress\",\"macAddress\",\"status\",\"installDate\",\"notes\",\"planId\",\"createdAt\",\"updatedAt\") VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15) RETURNING \"id\",\"name\",\"lastName\",\"email\",\"phone\",\"address\",\"sector\",\"ipAddress\",\"macAddress\",\"status\",\"installDate\",\"notes\",\"planId\",\"createdAt\",\"updatedAt\";","table":"Clients"},"parent":{"code":"23505","constraint":"Clients_ipAddress_key53","detail":"Ya existe la llave (\"ipAddress\")=(10.5.54.46).","file":"nbtinsert.c","length":228,"line":"673","name":"error","parameters":["84257dbe-7797-4411-b94c-53cdb603c33e","junajose","jimenes","juan@wisp.mx","1111111111","dvszs","norte","10.5.54.46","","activo","2026-06-21","","9a50c364-3c43-43ec-bb85-a63ffdf6cebd","2026-06-21 22:21:03.896 +00:00","2026-06-21 22:21:03.896 +00:00"],"routine":"_bt_check_unique","schema":"public","severity":"ERROR","sql":"INSERT INTO \"Clients\" (\"id\",\"name\",\"lastName\",\"email\",\"phone\",\"address\",\"sector\",\"ipAddress\",\"macAddress\",\"status\",\"installDate\",\"notes\",\"planId\",\"createdAt\",\"updatedAt\") VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15) RETURNING \"id\",\"name\",\"lastName\",\"email\",\"phone\",\"address\",\"sector\",\"ipAddress\",\"macAddress\",\"status\",\"installDate\",\"notes\",\"planId\",\"createdAt\",\"updatedAt\";","table":"Clients"},"sql":"INSERT INTO \"Clients\" (\"id\",\"name\",\"lastName\",\"email\",\"phone\",\"address\",\"sector\",\"ipAddress\",\"macAddress\",\"status\",\"installDate\",\"notes\",\"planId\",\"createdAt\",\"updatedAt\") VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15) RETURNING \"id\",\"name\",\"lastName\",\"email\",\"phone\",\"address\",\"sector\",\"ipAddress\",\"macAddress\",\"status\",\"installDate\",\"notes\",\"planId\",\"createdAt\",\"updatedAt\";","stack":"Error\n    at Query.run (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\dialects\\postgres\\query.js:50:25)\n    at C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\sequelize.js:315:28\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async PostgresQueryInterface.insert (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\dialects\\abstract\\query-interface.js:308:21)\n    at async model.save (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\model.js:2490:35)\n    at async Client.create (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\model.js:1362:12)\n    at async create (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\controllers\\client.controller.js:66:20)","timestamp":"2026-06-21 16:21:03"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 16:21:24"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 16:21:58"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 16:21:58"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 16:21:58"}
+{"ip":"::1","level":"info","message":"POST /api/clients","timestamp":"2026-06-21 16:22:24"}
+{"errors":[],"fields":{},"level":"error","message":"Error creando cliente: llave duplicada viola restricción de unicidad «Clients_ipAddress_key53»","name":"SequelizeUniqueConstraintError","original":{"code":"23505","constraint":"Clients_ipAddress_key53","detail":"Ya existe la llave (\"ipAddress\")=(10.5.54.46).","file":"nbtinsert.c","length":228,"line":"673","name":"error","parameters":["746bdd50-77cc-43c3-affb-84c13c59fc97","junajose","jimenes","juan@wisp.mx","1111111114","dvszg","norte","10.5.54.46","","activo","2026-06-21","","9a50c364-3c43-43ec-bb85-a63ffdf6cebd","2026-06-21 22:22:24.350 +00:00","2026-06-21 22:22:24.350 +00:00"],"routine":"_bt_check_unique","schema":"public","severity":"ERROR","sql":"INSERT INTO \"Clients\" (\"id\",\"name\",\"lastName\",\"email\",\"phone\",\"address\",\"sector\",\"ipAddress\",\"macAddress\",\"status\",\"installDate\",\"notes\",\"planId\",\"createdAt\",\"updatedAt\") VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15) RETURNING \"id\",\"name\",\"lastName\",\"email\",\"phone\",\"address\",\"sector\",\"ipAddress\",\"macAddress\",\"status\",\"installDate\",\"notes\",\"planId\",\"createdAt\",\"updatedAt\";","table":"Clients"},"parent":{"code":"23505","constraint":"Clients_ipAddress_key53","detail":"Ya existe la llave (\"ipAddress\")=(10.5.54.46).","file":"nbtinsert.c","length":228,"line":"673","name":"error","parameters":["746bdd50-77cc-43c3-affb-84c13c59fc97","junajose","jimenes","juan@wisp.mx","1111111114","dvszg","norte","10.5.54.46","","activo","2026-06-21","","9a50c364-3c43-43ec-bb85-a63ffdf6cebd","2026-06-21 22:22:24.350 +00:00","2026-06-21 22:22:24.350 +00:00"],"routine":"_bt_check_unique","schema":"public","severity":"ERROR","sql":"INSERT INTO \"Clients\" (\"id\",\"name\",\"lastName\",\"email\",\"phone\",\"address\",\"sector\",\"ipAddress\",\"macAddress\",\"status\",\"installDate\",\"notes\",\"planId\",\"createdAt\",\"updatedAt\") VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15) RETURNING \"id\",\"name\",\"lastName\",\"email\",\"phone\",\"address\",\"sector\",\"ipAddress\",\"macAddress\",\"status\",\"installDate\",\"notes\",\"planId\",\"createdAt\",\"updatedAt\";","table":"Clients"},"sql":"INSERT INTO \"Clients\" (\"id\",\"name\",\"lastName\",\"email\",\"phone\",\"address\",\"sector\",\"ipAddress\",\"macAddress\",\"status\",\"installDate\",\"notes\",\"planId\",\"createdAt\",\"updatedAt\") VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15) RETURNING \"id\",\"name\",\"lastName\",\"email\",\"phone\",\"address\",\"sector\",\"ipAddress\",\"macAddress\",\"status\",\"installDate\",\"notes\",\"planId\",\"createdAt\",\"updatedAt\";","stack":"Error\n    at Query.run (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\dialects\\postgres\\query.js:50:25)\n    at C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\sequelize.js:315:28\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async PostgresQueryInterface.insert (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\dialects\\abstract\\query-interface.js:308:21)\n    at async model.save (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\model.js:2490:35)\n    at async Client.create (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\node_modules\\sequelize\\lib\\model.js:1362:12)\n    at async create (C:\\Users\\STAyTMEX-SERVER\\Documents\\pro_web\\wisp-manager\\backend\\src\\controllers\\client.controller.js:66:20)","timestamp":"2026-06-21 16:22:24"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 16:22:28"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 16:22:36"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 16:22:36"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 16:22:36"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 16:22:46"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-21 16:22:47"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 16:23:40"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 16:23:40"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-21 16:23:40"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 16:24:14"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 16:24:14"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-21 16:24:14"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 16:24:55"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 16:24:55"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-21 16:24:55"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 16:24:58"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 16:24:58"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 16:25:26"}
+{"ip":"::1","level":"info","message":"POST /api/clients","timestamp":"2026-06-21 16:25:29"}
+{"level":"warn","message":"No se pudo crear usuario en MikroTik:","timestamp":"2026-06-21 16:25:29"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 16:25:29"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 16:25:33"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 16:25:51"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 16:25:56"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-21 16:25:59"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 16:25:59"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-21 16:26:01"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 16:26:01"}
+{"ip":"::1","level":"info","message":"GET /api/clients/be11996f-d23d-4191-a96e-fc7b6820e88c","timestamp":"2026-06-21 16:26:11"}
+{"ip":"::1","level":"info","message":"POST /api/invoices/b734e5a8-9ef5-428b-9bd3-8455f7b7cb70/pay","timestamp":"2026-06-21 16:26:24"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-21 16:26:24"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 16:26:24"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 16:26:26"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 16:26:26"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 16:26:26"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 16:26:26"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 16:27:43"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 16:27:43"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 16:27:43"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 16:27:43"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-21 16:27:45"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 16:27:45"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 16:27:47"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 16:27:49"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 16:28:47"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 16:28:47"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 16:28:50"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 16:28:50"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 16:28:53"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 16:28:53"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 16:28:53"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 16:28:54"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 16:29:22"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 16:29:22"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 16:29:22"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 16:33:57"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 16:33:57"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 16:33:57"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 16:51:05"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 16:51:07"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 16:51:07"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 16:51:07"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 16:51:07"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 16:51:28"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 16:51:28"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 16:51:28"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 16:52:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:01:26"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 17:01:26"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:05:35"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 17:05:35"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:06:33"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 17:06:33"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:08:41"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 17:08:41"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 17:08:45"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 17:08:45"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 17:08:45"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 17:08:48"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 17:08:55"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-21 17:08:55"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:09:11"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 17:09:23"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 17:09:23"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:09:42"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:10:12"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:10:42"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 17:10:59"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:11:12"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 17:11:42"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:11:43"}
+{"ip":"::1","level":"info","message":"POST /api/plans","timestamp":"2026-06-21 17:11:59"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:12:13"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 17:12:32"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 17:12:37"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:12:37"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 17:12:47"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 17:12:54"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 17:12:56"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 17:12:56"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 17:12:56"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 17:12:56"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 17:13:30"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 17:13:39"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:13:39"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 17:13:41"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:13:41"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:15:20"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 17:15:20"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:15:50"}
+{"ip":"::1","level":"info","message":"POST /api/plans","timestamp":"2026-06-21 17:16:01"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 17:16:14"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:16:35"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 17:16:42"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:16:42"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:17:29"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 17:17:29"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 17:23:30"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 17:23:35"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 17:23:36"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 17:23:36"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 17:23:36"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 17:23:36"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:23:55"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 17:23:55"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 17:23:57"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:23:57"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:24:27"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 17:24:31"}
+{"ip":"::1","level":"info","message":"POST /api/plans","timestamp":"2026-06-21 17:24:35"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:25:02"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 17:25:02"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:26:05"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 17:26:05"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:52:28"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 17:52:28"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 17:52:43"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 17:52:44"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 17:52:44"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 17:52:44"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 17:52:44"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-21 17:52:57"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-21 17:52:58"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 17:52:58"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 17:52:58"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 17:52:58"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:52:58"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 17:53:03"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-21 17:53:08"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 17:53:08"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 17:53:09"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 17:53:14"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-21 17:53:14"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 17:53:31"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:53:45"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 17:53:45"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-21 17:53:45"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:57:48"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 17:57:48"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-21 17:57:48"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 17:57:52"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:58:19"}
+{"ip":"::1","level":"info","message":"POST /api/plans","timestamp":"2026-06-21 17:58:25"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:58:55"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 17:58:55"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 17:59:46"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 17:59:46"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 18:07:15"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 18:11:38"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 18:11:40"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 18:11:40"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 18:11:40"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 18:11:40"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:12:11"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 18:12:11"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 18:12:14"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:12:14"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 18:12:17"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-21 18:12:17"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-21 18:12:24"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-21 18:12:24"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 18:12:24"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 18:12:24"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 18:12:24"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:12:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:12:54"}
+{"ip":"::1","level":"info","message":"POST /api/plans","timestamp":"2026-06-21 18:13:09"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:13:24"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 18:13:37"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 18:13:54"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 18:13:55"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 18:13:55"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 18:13:55"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 18:13:55"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"POST /api/plans","timestamp":"2026-06-21 18:13:56"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:13:56"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 18:13:56"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:14:26"}
+{"ip":"::ffff:127.0.0.1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:14:26"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:14:31"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:15:07"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 18:15:07"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 18:15:09"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:15:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:15:37"}
+{"ip":"::1","level":"info","message":"POST /api/clients","timestamp":"2026-06-21 18:16:05"}
+{"level":"warn","message":"No se pudo crear usuario en MikroTik:","timestamp":"2026-06-21 18:16:05"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 18:16:05"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:16:07"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:16:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:17:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:18:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:19:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:20:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:21:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:22:17"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 18:22:17"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 18:22:17"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 18:22:19"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 18:22:19"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:22:19"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 18:22:23"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/4d622b43-5994-4f38-b605-b606aa8e1726/traffic","timestamp":"2026-06-21 18:22:23"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-21 18:22:28"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 18:22:28"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:22:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:22:30"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 18:22:30"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 18:22:30"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 18:22:30"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 18:23:15"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 18:24:58"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 18:24:58"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 18:24:58"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 18:24:58"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 18:24:58"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 18:25:02"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 18:25:02"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 18:25:02"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 18:25:02"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 18:25:02"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 18:25:48"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 18:25:49"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 18:25:49"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 18:25:49"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 18:25:49"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-21 18:26:04"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 18:26:04"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:26:04"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-21 18:26:07"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-21 18:26:07"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 18:26:07"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:26:07"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 18:26:07"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 18:26:07"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 18:26:10"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 18:26:10"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:26:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:26:38"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:27:08"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:27:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:27:38"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:28:08"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:28:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:28:38"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:29:08"}
+{"ip":"::1","level":"info","message":"POST /api/plans","timestamp":"2026-06-21 18:29:18"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 18:29:18"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:29:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:29:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:30:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:30:35"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 18:30:35"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 18:30:37"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:31:05"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:31:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:31:35"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:32:05"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:32:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:33:24"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 18:33:24"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 18:33:24"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:33:31"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 18:34:25"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 18:40:40"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 18:40:40"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 18:40:40"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 18:40:40"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 18:40:40"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:40:49"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 18:40:49"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 18:40:49"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 18:40:52"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 18:40:52"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:40:52"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-21 18:40:59"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-21 18:41:00"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 18:41:00"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 18:41:00"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 18:41:00"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:41:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:41:30"}
+{"ip":"::1","level":"info","message":"POST /api/clients","timestamp":"2026-06-21 18:41:31"}
+{"level":"warn","message":"No se pudo crear usuario en MikroTik:","timestamp":"2026-06-21 18:41:31"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 18:41:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:42:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:43:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:44:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:45:56"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 18:45:56"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 18:45:56"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:46:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:46:48"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 18:46:48"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 18:46:48"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-21 18:47:04"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 18:47:04"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-21 18:47:12"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-21 18:47:13"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 18:47:13"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 18:47:13"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 18:47:13"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 18:47:15"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/27a1b6a3-3125-4891-a49b-25e35f5faf72/traffic","timestamp":"2026-06-21 18:47:15"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 18:47:22"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:47:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:48:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:49:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:49:55"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 18:49:55"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:50:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:51:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:52:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 18:52:31"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 18:52:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:53:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:54:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:55:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:56:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:57:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:58:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 18:59:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:00:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 19:00:48"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 19:00:48"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 19:00:50"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/27a1b6a3-3125-4891-a49b-25e35f5faf72/traffic","timestamp":"2026-06-21 19:00:50"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:01:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 19:02:28"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 19:02:28"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 19:02:29"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:02:30"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 19:02:47"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:03:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:04:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:05:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:06:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:07:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:08:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:09:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:10:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:11:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:12:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:13:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:14:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:15:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:16:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:17:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:18:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:19:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:20:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:21:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:22:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:23:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:24:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:25:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:27:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:28:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:29:30"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 19:30:31"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 19:30:43"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 19:30:44"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 19:30:44"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 19:30:44"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 19:30:44"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 19:30:57"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 19:30:57"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 19:30:57"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 19:30:59"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 19:30:59"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 19:30:59"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 19:31:29"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:31:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 19:32:00"}
+{"ip":"::1","level":"info","message":"POST /api/clients","timestamp":"2026-06-21 19:32:10"}
+{"level":"warn","message":"No se pudo crear usuario en MikroTik:","timestamp":"2026-06-21 19:32:10"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 19:32:10"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:32:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:33:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:34:31"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 19:34:32"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 19:34:32"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 19:34:32"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 19:34:37"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-21 19:34:37"}
+{"ip":"::1","level":"info","message":"POST /api/invoices/2e3dc148-7840-454c-a778-e1705cd276d1/pay","timestamp":"2026-06-21 19:34:42"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-21 19:34:42"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 19:34:42"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 19:34:44"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/27a1b6a3-3125-4891-a49b-25e35f5faf72/traffic","timestamp":"2026-06-21 19:34:44"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 19:35:03"}
+{"ip":"::1","level":"info","message":"POST /api/plans","timestamp":"2026-06-21 19:35:11"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 19:35:11"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 19:35:20"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:35:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:35:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 19:35:33"}
+{"ip":"::1","level":"info","message":"POST /api/clients","timestamp":"2026-06-21 19:35:50"}
+{"level":"warn","message":"No se pudo crear usuario en MikroTik:","timestamp":"2026-06-21 19:35:50"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 19:35:50"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 19:36:25"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 19:36:25"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 19:36:25"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:36:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:37:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:38:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:39:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:40:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:41:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:42:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:43:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:44:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:45:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:46:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:47:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:48:30"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 19:49:23"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 19:49:23"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 19:49:23"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:49:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:50:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:51:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:52:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:53:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:54:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:55:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:56:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:57:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 19:58:30"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 19:58:56"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 19:58:56"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 19:58:56"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 19:58:56"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 19:58:56"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 19:59:04"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 19:59:05"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 19:59:05"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 19:59:05"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 19:59:05"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 19:59:40"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 19:59:40"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 19:59:40"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 19:59:40"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 19:59:40"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 20:00:19"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 20:00:19"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 20:00:19"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 20:00:19"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 20:00:23"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 20:00:23"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:00:31"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 20:00:49"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 20:01:19"}
+{"ip":"::1","level":"info","message":"POST /api/clients","timestamp":"2026-06-21 20:01:28"}
+{"level":"warn","message":"No se pudo crear usuario en MikroTik:","timestamp":"2026-06-21 20:01:28"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 20:01:28"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:01:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:02:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 20:03:23"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 20:03:23"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 20:03:23"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 20:03:29"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-21 20:03:29"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:03:30"}
+{"ip":"::1","level":"info","message":"POST /api/invoices/7b9fc940-2034-4147-9120-fafcfe2f6fe2/pay","timestamp":"2026-06-21 20:03:34"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-21 20:03:34"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 20:03:34"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:04:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:05:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:06:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 20:07:02"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 20:07:02"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-21 20:07:02"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:07:31"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 20:08:17"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-21 20:08:17"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 20:08:17"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:08:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 20:08:47"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 20:08:53"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 20:08:58"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 20:08:58"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 20:08:58"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 20:08:58"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 20:08:58"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 20:09:17"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-21 20:09:20"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 20:09:20"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 20:09:20"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 20:09:29"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 20:09:29"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 20:09:30"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 20:09:30"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 20:09:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:09:31"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 20:09:34"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/27a1b6a3-3125-4891-a49b-25e35f5faf72/traffic","timestamp":"2026-06-21 20:09:34"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 20:09:50"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 20:10:20"}
+{"ip":"::1","level":"info","message":"POST /api/clients","timestamp":"2026-06-21 20:10:22"}
+{"level":"warn","message":"No se pudo crear usuario en MikroTik:","timestamp":"2026-06-21 20:10:22"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 20:10:22"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/27a1b6a3-3125-4891-a49b-25e35f5faf72/traffic","timestamp":"2026-06-21 20:10:26"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 20:10:26"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 20:10:27"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:10:30"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-21 20:10:33"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-21 20:10:33"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 20:10:33"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 20:10:33"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 20:10:33"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:11:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:12:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:13:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:14:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:15:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:16:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:17:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:18:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:19:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:20:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:21:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:22:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:23:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:24:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:25:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:26:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:27:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:28:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:29:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:30:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:31:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:32:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:33:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:34:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:35:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:36:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:37:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:38:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:39:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:40:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:41:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:42:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:43:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:44:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:45:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:46:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:47:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:48:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:49:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:50:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:51:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:52:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:53:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:54:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:55:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:56:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:57:30"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 20:57:44"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 20:57:45"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 20:57:45"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 20:57:45"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 20:57:45"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:58:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 20:59:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 21:00:31"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 21:01:16"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 21:01:16"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 21:01:16"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 21:01:16"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 21:01:18"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/27a1b6a3-3125-4891-a49b-25e35f5faf72/traffic","timestamp":"2026-06-21 21:01:18"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 21:01:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 21:02:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 21:03:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 21:04:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 21:05:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 21:06:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 21:07:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 21:08:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 21:09:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 21:10:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 21:11:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 21:12:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 21:13:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 21:14:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 21:15:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 21:16:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 21:17:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 21:18:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 21:19:30"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 22:22:20"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 22:22:21"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 22:22:21"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 22:22:21"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 22:22:21"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 22:24:55"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 22:24:55"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 22:24:55"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 22:24:55"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-21 22:24:58"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 22:26:21"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 22:26:22"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 22:26:52"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 22:26:52"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 22:26:52"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 22:26:52"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 22:26:52"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 23:03:22"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 23:03:23"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 23:03:23"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 23:03:23"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 23:03:23"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 23:16:29"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 23:16:30"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 23:16:30"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 23:16:30"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 23:16:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:17:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:18:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:19:30"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 23:19:41"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 23:19:42"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 23:19:42"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 23:19:42"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 23:19:42"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:20:31"}
+{"ip":"::1","level":"info","message":"POST /api/auth/login","timestamp":"2026-06-21 23:20:45"}
+{"level":"info","message":"Login exitoso: admin@wisp.mx (superadmin)","timestamp":"2026-06-21 23:20:46"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 23:20:47"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 23:20:47"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 23:20:47"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 23:20:47"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 23:20:49"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/83d64f91-0b6a-4e61-ac2f-d1bc24f6a88f/traffic","timestamp":"2026-06-21 23:20:49"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 23:20:51"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 23:20:52"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-21 23:20:52"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 23:20:53"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:21:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:22:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:23:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 23:23:44"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 23:23:44"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:24:31"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 23:24:35"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 23:24:35"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 23:24:39"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 23:24:39"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 23:24:40"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/83d64f91-0b6a-4e61-ac2f-d1bc24f6a88f/traffic","timestamp":"2026-06-21 23:24:40"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-21 23:24:41"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 23:24:41"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 23:24:43"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 23:24:43"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 23:24:43"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:25:30"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 23:25:46"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 23:25:51"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 23:25:51"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 23:25:51"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 23:25:51"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 23:25:51"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:26:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:27:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:28:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:29:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:30:30"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 23:30:36"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 23:30:36"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 23:30:36"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 23:30:36"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 23:30:36"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 23:30:46"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 23:30:47"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 23:30:47"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 23:30:47"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 23:30:47"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:31:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:32:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:33:30"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 23:34:04"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 23:34:04"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 23:34:04"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 23:34:04"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-21 23:34:08"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-21 23:34:08"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-21 23:34:08"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 23:34:08"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-21 23:34:09"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/83d64f91-0b6a-4e61-ac2f-d1bc24f6a88f/traffic","timestamp":"2026-06-21 23:34:09"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 23:34:11"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:34:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 23:34:38"}
+{"ip":"::1","level":"info","message":"POST /api/plans","timestamp":"2026-06-21 23:34:41"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 23:34:41"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:35:11"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 23:35:20"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-21 23:35:20"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 23:35:21"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:35:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 23:35:50"}
+{"ip":"::1","level":"info","message":"POST /api/clients","timestamp":"2026-06-21 23:36:06"}
+{"level":"warn","message":"No se pudo crear usuario en MikroTik:","timestamp":"2026-06-21 23:36:06"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-21 23:36:06"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 23:36:14"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:36:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:37:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:38:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:39:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:40:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:41:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:42:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:43:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:44:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:45:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:46:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:47:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:48:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:49:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:50:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 23:50:54"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-21 23:50:54"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:51:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:52:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:53:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:54:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:55:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:56:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:57:30"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-21 23:58:28"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-21 23:58:29"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-21 23:58:29"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-21 23:58:29"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-21 23:58:29"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-21 23:59:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:00:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:02:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:03:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:04:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:05:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:06:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:07:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:08:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:09:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:10:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:11:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:12:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:13:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:14:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:15:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:16:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:17:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:18:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:19:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:20:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:21:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:22:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:23:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:24:30"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-22 00:24:49"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-22 00:24:50"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-22 00:24:50"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-22 00:24:50"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-22 00:24:50"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-22 00:24:53"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-22 00:24:53"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-22 00:24:53"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-22 00:24:53"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-22 00:24:53"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-22 00:25:00"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-22 00:25:00"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-22 00:25:00"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-22 00:25:00"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-22 00:25:00"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-22 00:25:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-22 00:25:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-22 00:25:33"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-22 00:25:33"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-22 00:25:35"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/83d64f91-0b6a-4e61-ac2f-d1bc24f6a88f/traffic","timestamp":"2026-06-22 00:25:35"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-22 00:25:37"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-22 00:25:39"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-22 00:25:39"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-22 00:25:41"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-22 00:25:57"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-22 00:26:03"}
+{"ip":"::1","level":"info","message":"POST /api/clients","timestamp":"2026-06-22 00:26:28"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-22 00:26:28"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:26:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:26:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-22 00:27:27"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-22 00:27:27"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-22 00:27:27"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:27:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:28:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-22 00:28:49"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-22 00:28:49"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-22 00:28:49"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-22 00:28:54"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-22 00:28:54"}
+{"ip":"::1","level":"info","message":"POST /api/invoices/167acb0d-1839-4100-8b1b-f8cb01c94d4f/pay","timestamp":"2026-06-22 00:28:58"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-22 00:28:58"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-22 00:28:58"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:29:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:30:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:31:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:32:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:33:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:34:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:35:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:36:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:37:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:38:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:39:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:40:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:41:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:42:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-22 00:42:54"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-22 00:42:54"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-22 00:42:56"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-22 00:42:56"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-22 00:42:58"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:43:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:44:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:45:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:46:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:47:31"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-22 00:47:42"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-22 00:47:43"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-22 00:47:43"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-22 00:47:43"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-22 00:47:43"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-22 00:47:53"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-22 00:47:53"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-22 00:47:53"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-22 00:47:53"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-22 00:47:53"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-22 00:47:54"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-22 00:47:55"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-22 00:47:55"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-22 00:47:55"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-22 00:47:55"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-22 00:48:10"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-22 00:48:10"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-22 00:48:10"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-22 00:48:12"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-22 00:48:12"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-22 00:48:12"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:48:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-22 00:48:43"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-22 00:49:13"}
+{"ip":"::1","level":"info","message":"POST /api/clients","timestamp":"2026-06-22 00:49:21"}
+{"level":"error","message":"Error creando usuario PPPoE en MK-Principal: invalid value for argument remote-address","timestamp":"2026-06-22 00:49:21"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-22 00:49:21"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:49:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:49:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:50:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:51:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:52:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:53:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:54:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:55:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:56:31"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-22 00:57:05"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-22 00:57:05"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-22 00:57:05"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:57:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:58:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 00:59:30"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-22 01:00:01"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-22 01:00:02"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-22 01:00:02"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-22 01:00:02"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-22 01:00:02"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:01:30"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-22 01:01:54"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-22 01:01:54"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-22 01:01:54"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-22 01:01:54"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-22 01:01:54"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-22 01:01:57"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-22 01:01:57"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-22 01:01:57"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-22 01:01:59"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-22 01:01:59"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-22 01:01:59"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-22 01:02:29"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:02:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-22 01:03:05"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-22 01:03:05"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-22 01:03:05"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:03:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-22 01:03:35"}
+{"ip":"::1","level":"info","message":"POST /api/clients","timestamp":"2026-06-22 01:03:42"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-22 01:03:42"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:04:12"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:04:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:05:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:06:30"}
+{"level":"info","message":"✅ Conexión a PostgreSQL establecida","timestamp":"2026-06-22 01:06:42"}
+{"level":"info","message":"✅ Modelos sincronizados con la base de datos","timestamp":"2026-06-22 01:06:43"}
+{"level":"info","message":"📡 Cron jobs de monitoreo iniciados","timestamp":"2026-06-22 01:06:43"}
+{"level":"info","message":"✅ Monitor MikroTik iniciado","timestamp":"2026-06-22 01:06:43"}
+{"level":"info","message":"🚀 Servidor corriendo en puerto 4000","timestamp":"2026-06-22 01:06:43"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:07:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:08:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:09:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-22 01:10:10"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-22 01:10:10"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-22 01:10:10"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:10:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:11:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:12:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:13:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:14:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:15:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:16:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:17:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:18:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:19:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:20:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:21:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:22:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:23:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:24:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:25:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:26:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:27:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:28:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:29:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:30:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:31:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-22 01:32:12"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-22 01:32:12"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-22 01:32:12"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-22 01:32:14"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/83d64f91-0b6a-4e61-ac2f-d1bc24f6a88f/traffic","timestamp":"2026-06-22 01:32:14"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:32:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:33:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:34:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-22 01:35:11"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices","timestamp":"2026-06-22 01:35:11"}
+{"ip":"::1","level":"info","message":"GET /api/mikrotik/devices/83d64f91-0b6a-4e61-ac2f-d1bc24f6a88f/traffic","timestamp":"2026-06-22 01:35:11"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-22 01:35:15"}
+{"ip":"::1","level":"info","message":"GET /api/invoices","timestamp":"2026-06-22 01:35:17"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-22 01:35:17"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-22 01:35:18"}
+{"ip":"::1","level":"info","message":"GET /api/invoices/stats","timestamp":"2026-06-22 01:35:19"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/summary","timestamp":"2026-06-22 01:35:19"}
+{"ip":"::1","level":"info","message":"GET /api/dashboard/clients-by-plan","timestamp":"2026-06-22 01:35:19"}
+{"ip":"::1","level":"info","message":"GET /api/clients/c409a1ea-55cf-4f17-908f-b04b764be61c","timestamp":"2026-06-22 01:35:22"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:35:30"}
+{"ip":"::1","level":"info","message":"POST /api/clients/c409a1ea-55cf-4f17-908f-b04b764be61c/suspend","timestamp":"2026-06-22 01:35:40"}
+{"level":"warn","message":"Error deshabilitando PPPoE 192.168.1.12 en MK-Principal:","timestamp":"2026-06-22 01:35:41"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-22 01:35:41"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-22 01:35:42"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:36:11"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:36:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:37:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:38:31"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:39:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:40:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:41:30"}
+{"ip":"::1","level":"info","message":"GET /api/alerts","timestamp":"2026-06-22 01:42:07"}
+{"ip":"::1","level":"info","message":"GET /api/clients","timestamp":"2026-06-22 01:42:07"}
+{"ip":"::1","level":"info","message":"GET /api/plans","timestamp":"2026-06-22 01:42:07"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:42:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:43:30"}
+{"level":"error","message":"RouterOS Error (MK-Principal): Timed out after 30 seconds","timestamp":"2026-06-22 01:44:30"}

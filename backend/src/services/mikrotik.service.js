@@ -7,37 +7,31 @@ class MikrotikService {
     this.connections = new Map();
   }
 
-  async connect(device) {
+   async connect(device) {
+    if (this.connections.has(device.id)) {
+      return this.connections.get(device.id);
+    }
 
-  
+    const conn = new RouterOSAPI({
+      host: device.host,
+      user: device.username,
+      password: device.password,
+      port: device.port || 8728,
+      timeout: 60000
+    });
 
-  const conn = new RouterOSAPI({
-    host: device.host,
-    user: device.username,
-    password: device.password,
-    port: device.port || 8728,
-    timeout: 30
-  });
+   
 
-  conn.on('error', (err) => {
-    logger.error(
-      `RouterOS Error (${device.name}): ${err.message}`
-    );
-    this.disconnect(device.id);
-  });
-
-  await conn.connect();
-
-  this.connections.set(device.id, conn);
-
-  return conn;
-}
+    await conn.connect();
+    this.connections.set(device.id, conn);
+    return conn;
+  }
 
   async disconnect(deviceId) {
     if (this.connections.has(deviceId)) {
       try {
         this.connections.get(deviceId).close();
-      } catch (_) {}
+      } catch (_) { }
       this.connections.delete(deviceId);
     }
   }
@@ -68,8 +62,34 @@ class MikrotikService {
     } catch (error) {
       this.disconnect(device.id);
       return { status: 'offline', lastSeen: new Date() };
-      
-}}
+    }
+  }
+
+   async getTraffic(device, interfaceName = 'bridge-pppoe') {
+    try {
+      const conn = await this.connect(device);
+      const stats = await conn.write('/interface/print', ['=.proplist=name,rx-bits-per-second,tx-bits-per-second']);
+      const iface = stats.find(i => i.name === interfaceName) || stats[0];
+
+      if (!iface) return { downloadMbps: 0, uploadMbps: 0 };
+
+      return {
+        downloadMbps: parseFloat((parseFloat(iface['rx-bits-per-second'] || 0) / 1000000).toFixed(2)),
+        uploadMbps: parseFloat((parseFloat(iface['tx-bits-per-second'] || 0) / 1000000).toFixed(2))
+      };
+    } catch (error) {
+      return { downloadMbps: 0, uploadMbps: 0 };
+    }
+  }
+   async getActiveConnections(device) {
+    try {
+      const conn = await this.connect(device);
+      const connections = await conn.write('/ip/firewall/connection/print', ['=count-only=']);
+      return parseInt(connections[0]?.ret || 0);
+    } catch (error) {
+      return 0;
+    }
+  }
 
   // Crear usuario PPPoE
   async createPPPoEUser({ username, password, profile, service, remoteAddress, comment }) {
@@ -86,15 +106,15 @@ class MikrotikService {
           `=comment=${comment || ''}`
         ]);
       } catch (err) {
-  console.error('ERROR PPPoE COMPLETO:', err);
+        console.error('ERROR PPPoE COMPLETO:', err);
 
-  logger.error(
-    `Error creando usuario PPPoE en ${device.name}: ${
-      err.message || JSON.stringify(err)
-    }`
-  );
-}}}
-
+        logger.error(
+          `Error creando usuario PPPoE en ${device.name}: ${err.message || JSON.stringify(err)
+          }`
+        );
+      }
+    }
+  }
   // Deshabilitar usuario PPPoE
   async disableUser(username) {
     const devices = await MikrotikDevice.findAll({ where: { isActive: true, status: 'online' } });
@@ -146,29 +166,37 @@ class MikrotikService {
       } catch (err) {
         logger.warn(`Error creando perfil PPPoE en ${device.name}:`, err.message);
       }
-    
-    }}
-  async getTraffic(device) {
-  try {
-    const conn = await this.connect(device);
 
-    const interfaces = await conn.write('/interface/print');
-
-    return {
-      downloadMbps: 0,
-      uploadMbps: 0
-    };
-  } catch (error) {
-    logger.error(`Error obteniendo tráfico de ${device.name}:`, error.message);
-
-    return {
-      downloadMbps: 0,
-      uploadMbps: 0
-    };
-  }}
-
+    }
   }
 
 
-  
+async getOnlineUsers(device) {
+  try {
+    const conn = await this.connect(device);
+    const activeUsers = await conn.write('/ppp/active/print');
+    const interfaces = await conn.write('/interface/print/stats');
+
+    return activeUsers.map(user => {
+      const iface = interfaces.find(
+        i => i.name === `<pppoe-${user.name}>`
+      );
+
+      return {
+        username: user.name,
+        ipAddress: user.address,
+        macAddress: user['caller-id'],
+        uptime: user.uptime,
+        service: user.service,
+        rxBytes: iface ? iface['rx-byte'] : 0,
+        txBytes: iface ? iface['tx-byte'] : 0
+      };
+    });
+
+  } catch (error) {
+    console.error(error);
+    return [];
+  }
+}
+}
 module.exports = new MikrotikService();

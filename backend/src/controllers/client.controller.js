@@ -125,7 +125,7 @@ const suspend = async (req, res) => {
 
     // Suspender en MikroTik
     try {
-      await mikrotikService.disableUser(client.ipAddress);
+      await mikrotikService.disableUser(client.name);
     } catch (mikErr) {
       logger.warn('No se pudo suspender en MikroTik:', mikErr.message);
     }
@@ -147,7 +147,7 @@ const activate = async (req, res) => {
     await client.update({ status: 'activo' });
 
     try {
-      await mikrotikService.enableUser(client.ipAddress);
+      await mikrotikService.enableUser(client.name);
     } catch (mikErr) {
       logger.warn('No se pudo activar en MikroTik:', mikErr.message);
     }
