@@ -74,7 +74,7 @@ function PlanCard ({ plan }: { plan: Plan & { clients?: { status: string }[] } }
          }
 
          <div className="text-xs text-gray-400 bg-gray-50 rounded-lg p-2 font-mono">
-            /ip hotspot user profile add name={plan.mikrotikProfile || plan.name.toLowerCase().replace(/\s+/g, '-')} rate-limit={plan.downloadSpeed}M/{plan.uploadSpeed}M
+            /ppp/profile/add add name={plan.mikrotikProfile || plan.name.toLowerCase().replace(/\s+/g, '-')} rate-limit={plan.downloadSpeed}M/{plan.uploadSpeed}M
          </div>
       </div >
    );

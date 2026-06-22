@@ -151,12 +151,12 @@ El sistema se conecta a MikroTik vía **RouterOS API** (puerto 8728, no Winbox).
 /system/identity/print
 
 # Gestión de usuarios Hotspot
-/ip/hotspot/user/add
-/ip/hotspot/user/set disabled=yes|no
-/ip/hotspot/active/print
+/ppp/secret/add
+/ppp/secret/set disabled=yes|no
+/ppp/active/print
 
 # Perfiles QoS
-/ip/hotspot/user/profile/add name=plan-basico rate-limit=10M/5M
+/ppp/profile/add name=plan-basico rate-limit=10M/5M
 
 # Tráfico de interfaces
 /interface/print =.proplist=name,rx-bits-per-second,tx-bits-per-second

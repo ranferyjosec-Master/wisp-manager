@@ -8,22 +8,30 @@ class MikrotikService {
   }
 
   async connect(device) {
-    if (this.connections.has(device.id)) {
-      return this.connections.get(device.id);
-    }
 
-    const conn = new RouterOSAPI({
-      host: device.host,
-      user: device.username,
-      password: device.password,
-      port: device.port || 8728,
-      timeout: 10
-    });
+  
 
-    await conn.connect();
-    this.connections.set(device.id, conn);
-    return conn;
-  }
+  const conn = new RouterOSAPI({
+    host: device.host,
+    user: device.username,
+    password: device.password,
+    port: device.port || 8728,
+    timeout: 30
+  });
+
+  conn.on('error', (err) => {
+    logger.error(
+      `RouterOS Error (${device.name}): ${err.message}`
+    );
+    this.disconnect(device.id);
+  });
+
+  await conn.connect();
+
+  this.connections.set(device.id, conn);
+
+  return conn;
+}
 
   async disconnect(deviceId) {
     if (this.connections.has(deviceId)) {
@@ -33,7 +41,6 @@ class MikrotikService {
       this.connections.delete(deviceId);
     }
   }
-
   async getDeviceInfo(device) {
     try {
       const conn = await this.connect(device);
@@ -61,121 +68,107 @@ class MikrotikService {
     } catch (error) {
       this.disconnect(device.id);
       return { status: 'offline', lastSeen: new Date() };
-    }
-  }
+      
+}}
 
-  async getTraffic(device, interfaceName = 'ether1') {
-    try {
-      const conn = await this.connect(device);
-      const stats = await conn.write('/interface/print', ['=.proplist=name,rx-bits-per-second,tx-bits-per-second']);
-      const iface = stats.find(i => i.name === interfaceName) || stats[0];
-
-      if (!iface) return { downloadMbps: 0, uploadMbps: 0 };
-
-      return {
-        downloadMbps: parseFloat((parseFloat(iface['rx-bits-per-second'] || 0) / 1000000).toFixed(2)),
-        uploadMbps: parseFloat((parseFloat(iface['tx-bits-per-second'] || 0) / 1000000).toFixed(2))
-      };
-    } catch (error) {
-      return { downloadMbps: 0, uploadMbps: 0 };
-    }
-  }
-
-  async getActiveConnections(device) {
-    try {
-      const conn = await this.connect(device);
-      const connections = await conn.write('/ip/firewall/connection/print', ['=count-only=']);
-      return parseInt(connections[0]?.ret || 0);
-    } catch (error) {
-      return 0;
-    }
-  }
-
-  async createHotspotUser({ username, password, profile, comment }) {
+  // Crear usuario PPPoE
+  async createPPPoEUser({ username, password, profile, service, remoteAddress, comment }) {
     const devices = await MikrotikDevice.findAll({ where: { isActive: true, status: 'online' } });
     for (const device of devices) {
       try {
         const conn = await this.connect(device);
-        await conn.write('/ip/hotspot/user/add', [
+        await conn.write('/ppp/secret/add', [
           `=name=${username}`,
           `=password=${password}`,
+          `=service=pppoe`,
           `=profile=${profile}`,
+          `=remote-address=${remoteAddress}`,
           `=comment=${comment || ''}`
         ]);
       } catch (err) {
-        logger.warn(`Error creando usuario en ${device.name}:`, err.message);
-      }
-    }
-  }
+  console.error('ERROR PPPoE COMPLETO:', err);
 
+  logger.error(
+    `Error creando usuario PPPoE en ${device.name}: ${
+      err.message || JSON.stringify(err)
+    }`
+  );
+}}}
+
+  // Deshabilitar usuario PPPoE
   async disableUser(username) {
     const devices = await MikrotikDevice.findAll({ where: { isActive: true, status: 'online' } });
     for (const device of devices) {
       try {
         const conn = await this.connect(device);
-        await conn.write('/ip/hotspot/user/set', [
+        await conn.write('/ppp/secret/set', [
           `=numbers=${username}`,
           '=disabled=yes'
         ]);
-        // También remover sesiones activas
-        const sessions = await conn.write('/ip/hotspot/active/print', [`?user=${username}`]);
+        // Remover sesiones activas PPPoE
+        const sessions = await conn.write('/ppp/active/print', [`?name=${username}`]);
         for (const session of sessions) {
-          await conn.write('/ip/hotspot/active/remove', [`=.id=${session['.id']}`]);
+          await conn.write('/ppp/active/remove', [`=.id=${session['.id']}`]);
         }
       } catch (err) {
-        logger.warn(`Error deshabilitando ${username} en ${device.name}:`, err.message);
+        logger.warn(`Error deshabilitando PPPoE ${username} en ${device.name}:`, err.message);
       }
     }
   }
 
+  // Habilitar usuario PPPoE
   async enableUser(username) {
     const devices = await MikrotikDevice.findAll({ where: { isActive: true, status: 'online' } });
     for (const device of devices) {
       try {
         const conn = await this.connect(device);
-        await conn.write('/ip/hotspot/user/set', [
+        await conn.write('/ppp/secret/set', [
           `=numbers=${username}`,
           '=disabled=no'
         ]);
       } catch (err) {
-        logger.warn(`Error habilitando ${username} en ${device.name}:`, err.message);
+        logger.warn(`Error habilitando PPPoE ${username} en ${device.name}:`, err.message);
       }
     }
   }
 
-  async createQoSProfile({ name, downloadSpeed, uploadSpeed, burstDownload, burstUpload }) {
+  // Crear perfil QoS (para PPPoE)
+  async createQoSProfile({ name, downloadSpeed, uploadSpeed }) {
     const devices = await MikrotikDevice.findAll({ where: { isActive: true, status: 'online' } });
     for (const device of devices) {
       try {
         const conn = await this.connect(device);
         const rateLimit = `${downloadSpeed}M/${uploadSpeed}M`;
-        await conn.write('/ip/hotspot/user/profile/add', [
+        await conn.write('/ppp/profile/add', [
           `=name=${name}`,
-          `=rate-limit=${rateLimit}`,
-          `=shared-users=1`
+          `=rate-limit=${rateLimit}`
         ]);
       } catch (err) {
-        logger.warn(`Error creando perfil QoS en ${device.name}:`, err.message);
+        logger.warn(`Error creando perfil PPPoE en ${device.name}:`, err.message);
       }
-    }
+    
+    }}
+  async getTraffic(device) {
+  try {
+    const conn = await this.connect(device);
+
+    const interfaces = await conn.write('/interface/print');
+
+    return {
+      downloadMbps: 0,
+      uploadMbps: 0
+    };
+  } catch (error) {
+    logger.error(`Error obteniendo tráfico de ${device.name}:`, error.message);
+
+    return {
+      downloadMbps: 0,
+      uploadMbps: 0
+    };
+  }}
+
   }
 
-  async getOnlineUsers(device) {
-    try {
-      const conn = await this.connect(device);
-      const active = await conn.write('/ip/hotspot/active/print');
-      return active.map(u => ({
-        username: u.user,
-        ipAddress: u.address,
-        macAddress: u['mac-address'],
-        uptime: u.uptime,
-        bytesIn: u['bytes-in'],
-        bytesOut: u['bytes-out']
-      }));
-    } catch (error) {
-      return [];
-    }
-  }
-}
 
+  
 module.exports = new MikrotikService();

@@ -69,10 +69,11 @@ const create = async (req, res) => {
 
     // Crear usuario en MikroTik automáticamente
     try {
-      await mikrotikService.createHotspotUser({
-        username: ipAddress,
-        password: macAddress || ipAddress,
+      await mikrotikService.createPPPoEUser({
+        username: name,
+        password: lastName,
         profile: plan.mikrotikProfile,
+        remoteAddress: ipAddress,
         comment: `${name} ${lastName || ''}`
       });
     } catch (mikErr) {
