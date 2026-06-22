@@ -153,7 +153,7 @@ class MikrotikService {
   }
 
   // Crear perfil QoS (para PPPoE)
-  async createQoSProfile({ name, downloadSpeed, uploadSpeed }) {
+  async createQoSProfile({ name, downloadSpeed, uploadSpeed, host}) {
     const devices = await MikrotikDevice.findAll({ where: { isActive: true, status: 'online' } });
     for (const device of devices) {
       try {
@@ -161,7 +161,8 @@ class MikrotikService {
         const rateLimit = `${downloadSpeed}M/${uploadSpeed}M`;
         await conn.write('/ppp/profile/add', [
           `=name=${name}`,
-          `=rate-limit=${rateLimit}`
+          `=rate-limit=${rateLimit}`,
+          `=local-address=${device.host}`,
         ]);
       } catch (err) {
         logger.warn(`Error creando perfil PPPoE en ${device.name}:`, err.message);
