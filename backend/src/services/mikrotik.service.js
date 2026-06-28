@@ -115,42 +115,93 @@ class MikrotikService {
       }
     }
   }
-  // Deshabilitar usuario PPPoE
-  async disableUser(username) {
-    const devices = await MikrotikDevice.findAll({ where: { isActive: true, status: 'online' } });
-    for (const device of devices) {
-      try {
-        const conn = await this.connect(device);
-        await conn.write('/ppp/secret/set', [
-          `=numbers=${username}`,
-          '=disabled=yes'
-        ]);
-        // Remover sesiones activas PPPoE
-        const sessions = await conn.write('/ppp/active/print', [`?name=${username}`]);
-        for (const session of sessions) {
-          await conn.write('/ppp/active/remove', [`=.id=${session['.id']}`]);
-        }
-      } catch (err) {
-        logger.warn(`Error deshabilitando PPPoE ${username} en ${device.name}:`, err.message);
-      }
-    }
-  }
 
-  // Habilitar usuario PPPoE
-  async enableUser(username) {
-    const devices = await MikrotikDevice.findAll({ where: { isActive: true, status: 'online' } });
-    for (const device of devices) {
-      try {
-        const conn = await this.connect(device);
-        await conn.write('/ppp/secret/set', [
-          `=numbers=${username}`,
-          '=disabled=no'
-        ]);
-      } catch (err) {
-        logger.warn(`Error habilitando PPPoE ${username} en ${device.name}:`, err.message);
+ async disableUser(username) {
+  const devices = await MikrotikDevice.findAll({
+    where: {
+      isActive: true,
+      status: 'online'
+    }
+  });
+
+  for (const device of devices) {
+    try {
+      const conn = await this.connect(device);
+
+      // Buscar la sesión PPPoE del usuario
+      const active = await conn.write('/ppp/active/print', [
+        `?name=${username}`
+      ]);
+
+      if (active.length === 0) {
+        logger.warn(`El usuario ${username} no está conectado.`);
+        continue;
       }
+
+      // Obtener la IP asignada
+      const ip = active[0].address;
+
+      // Agregar la IP a la lista "suspendido"
+      await conn.write('/ip/firewall/address-list/add', [
+        '=list=suspendido',
+        `=address=${ip}`,
+        `=comment=${username}`
+      ]);
+
+      logger.info(`IP ${ip} agregada a la lista suspendido.`);
+
+    } catch (err) {
+      logger.error(`Error suspendiendo ${username}: ${err.message}`);
     }
   }
+}
+
+  // habilitar usuario PPPoE
+  async enableUser(username) {
+  const devices = await MikrotikDevice.findAll({
+    where: {
+      isActive: true,
+      status: 'online'
+    }
+  });
+
+  for (const device of devices) {
+    try {
+      const conn = await this.connect(device);
+
+      // Buscar la sesión PPPoE del usuario
+      const active = await conn.write('/ppp/active/print', [
+        `?name=${username}`
+      ]);
+
+      if (active.length === 0) {
+        logger.warn(`El usuario ${username} no está conectado.`);
+        continue;
+      }
+
+      // Obtener la IP asignada
+      const ip = active[0].address;
+
+       // Buscar la IP en la Address List
+      const entries = await conn.write('/ip/firewall/address-list/print', [
+        '?list=suspendido',
+        `?address=${ip}`
+      ]);
+
+     // Eliminar la IP de la lista
+      for (const entry of entries) {
+        await conn.write('/ip/firewall/address-list/remove', [
+          `=.id=${entry['.id']}`
+        
+      ]);
+}
+      logger.info(`IP ${ip} removida de la lista suspendido.`);
+
+    } catch (err) {
+      logger.error(`Error habilitando ${username}: ${err.message}`);
+    }
+  }
+}
 
   // Crear perfil QoS (para PPPoE)
   async createQoSProfile({ name, downloadSpeed, uploadSpeed, host}) {
