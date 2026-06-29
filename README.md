@@ -150,10 +150,21 @@ El sistema se conecta a MikroTik vía **RouterOS API** (puerto 8728, no Winbox).
 /system/resource/print
 /system/identity/print
 
-# Gestión de usuarios Hotspot
+# Gestión de usuarios pppoe
 /ppp/secret/add
 /ppp/secret/set disabled=yes|no
 /ppp/active/print
+
+#Suspender servicio 
+/ip/firewall/address-list/add
+
+#Agregar regla al router
+ /ip/firewall/filter/add chain=forward src-address-list=suspendido action=drop comment="Clientes suspendidos"
+
+
+#activar sevicio
+ip/firewall/address-list/print 
+/ip/firewall/address-list/removes
 
 # Perfiles QoS
 /ppp/profile/add name=plan-basico rate-limit=10M/5M
